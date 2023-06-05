@@ -1,2 +1,27 @@
-# Projecte_Neo4j
-Segon projecte Bases de Dades No Relacionals MatCAD
+## Introducció 
+Aquest repositori conté el projecte de Neo4j que es duu a terme a la assignatura de Bases de Dades no Relacionals al grau de Matemàtica Computacional i Analítica de Dades.
+## Pràctica 2 Bases de Dades No Relacionals MatCAD
+1. Judit Yebra Valencia, NIU: 1603614, Github user: JuditYebra, Contact: 1603614@uab.cat 
+2. Pau Fuentes Hernández, NIU: 1600158, Github user: PauFuentes, Contact: 1600158@uab.cat 
+3. Andrea Gonzalez Aguilera, NIU: 1603921, Github user: andreaagonzaalez, Contact: 1603921@uab.cat
+4. Xavier Seminario Monllaó, NIU: 1603853, Github user: XavierSeminario, Contact: 1603853@uab.cat
+
+<p align="center">
+<img src="https://github.com/PauFuentes/Projecte_MongoDB_Grup08/blob/master/logo.jpg", widht="300", height="300">
+</p>
+
+### Plantejament del problema
+En aquest projecte es treballarà el disseny, la implementació i la consulta d'una base de dades a MongoDB. Serà necessari implementar un script Python que processi i insereixi les dades en una base de dades MongoDB d'acord amb els requisits i el material relacionat amb la base de dades. Aleshores caldrà incorporar al disseny les deu consultes que ja s'han creat per obtenir els resultats, creant un conjunt de proves.
+
+Aquest subconjunt de dades de patrons s'ha de carregar primer a la base de dades de gràfics. Podrem organitzar les dades utilitzant les característiques de Neo4J perquè apareguin com a nodes (entitats) i relacions (connexions) al gràfic. Això ens permetrà emmagatzemar dades de manera eficaç i reflectir les connexions entre diverses entitats.
+
+Podem executar consultes per obtenir informació específica un cop les dades s'han carregat a Neo4J. Això implica navegar pel gràfic i recuperar dades mitjançant el llenguatge de consulta de gràfics (Cypher) segons diversos criteris.
+
+Tindrem l'oportunitat d'investigar algorismes d'anàlisi de gràfics a més de treballar amb dades i consultes. Amb l'ajuda d'aquests algorismes, podem extreure dades valuoses de gràfics, com ara comunitats, camins més curts o patrons de connexió. Serem capaços d'analitzar i comprendre les dades del patró de manera més a fons mitjançant aquests algorismes des d'una perspectiva de gràfics.
+
+### Part 1: Importació de les dades i implementació de l'script
+
+### Part 2: Ressolució de consultes
+
+### Part 3: Anàlisi del graf
+
