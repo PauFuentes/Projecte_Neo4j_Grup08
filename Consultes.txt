@@ -1,3 +1,6 @@
+### Consulta 1:
+match (p:Individu)-[:VIU]->(h:Habitatge) where h.Any_Padro=1866 and h.Municipi="CR" return count(p), collect(p.Cognom)
+
 ### Consulta 2:
 MATCH (i:Individu)-[:VIU]->(h:Habitatge)
 WHERE h.Municipi = "SFLL" AND i.Cognom <> 'nan'
