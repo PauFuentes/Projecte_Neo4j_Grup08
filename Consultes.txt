@@ -7,6 +7,8 @@ WHERE h.Municipi = "SFLL" AND i.Cognom <> 'nan'
 WITH h.Id AS ID, i.Any_Padro AS Any_Padro, count(h.Id) AS Recompte, collect(DISTINCT(i.Cognom)) AS Cognoms
 RETURN Any_Padro, Recompte, Cognoms ORDER BY Any_Padro ASC
 
+### Consulta 4:
+match (p:Individu{Nom:'rafel',Cognom:'marti'})-[:VIU]->(h:Habitatge{Municipi:"SFLL",Any_Padro:1838})<-[:VIU]-(p2:Individu) return p2.Nom
 
 ### Consulta 7:
 MATCH (p:Individu {Nom:'benito',Cognom:'julivert'})-[f:FAMILIA]-(otraPersona:Individu)
