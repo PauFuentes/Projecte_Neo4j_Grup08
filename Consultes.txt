@@ -16,3 +16,12 @@ RETURN otraPersona.Nom AS Nom,
        otraPersona.Cognom AS Cognom1,
        otraPersona.Segon_Cognom AS Cognom2,
        f.Relacio_Harmonitzada AS Tipus_Relació
+       
+### Consulta 8:
+MATCH (p:Individu {Nom:'benito', Cognom:'julivert'})-[f:FAMILIA]-(fill:Individu)
+WHERE f.Relacio_Harmonitzada IN ['fill', 'filla']
+RETURN fill.Nom AS Nom,
+       fill.Cognom AS Cognom1,
+       fill.Segon_Cognom AS Cognom2,
+       f.Relacio_Harmonitzada AS Tipus_Relació
+ORDER BY Nom ASC
