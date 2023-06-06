@@ -25,3 +25,12 @@ RETURN fill.Nom AS Nom,
        fill.Segon_Cognom AS Cognom2,
        f.Relacio_Harmonitzada AS Tipus_Relació
 ORDER BY Nom ASC
+
+### Consulta 11:
+CALL{MATCH (i:Individu)-[f:Familia]->(:Individu)-[:VIU]->(h:Habitatge)
+WHERE h.Municipi = "CR" AND (f.Relacio = "fill" OR f.Relacio = "filla")
+RETURN i} 
+MATCH (i)<-[f:Familia]-(p:Individu)
+WITH count(i) AS Nombre_Fills, f AS familia, p AS CAP LIMIT 15
+WHERE familia.Relacio = "cap" AND Nombre_Fills > 3
+RETURN CAP.Nom AS Nom, CAP.Cognom AS Cognom, CAP.Segon_Cognom AS Segon_Cognom, Nombre_Fills AS Nombre_Fills ORDER BY Nombre_Fills DESC 
