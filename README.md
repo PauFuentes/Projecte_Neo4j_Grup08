@@ -11,13 +11,13 @@ Aquest repositori conté el projecte de Neo4j que es duu a terme a la assignatur
 </p>
 
 ### Plantejament del problema
-En aquest projecte es treballarà el disseny, la implementació i la consulta d'una base de dades a MongoDB. Serà necessari implementar un script Python que processi i insereixi les dades en una base de dades MongoDB d'acord amb els requisits i el material relacionat amb la base de dades. Aleshores caldrà incorporar al disseny les deu consultes que ja s'han creat per obtenir els resultats, creant un conjunt de proves.
+En aquest projecte es treballarà el disseny, la implementació i la consulta d'una base de dades a Neo4j. Primerament, aerà necessari importar les dades en la BD de Neo4j. Per fer-ho s'hauran d'actualitzar els excels de forma que tinguin sentit i sigui còmode treballar amb ells. 
 
-Aquest subconjunt de dades de patrons s'ha de carregar primer a la base de dades de gràfics. Podrem organitzar les dades utilitzant les característiques de Neo4J perquè apareguin com a nodes (entitats) i relacions (connexions) al gràfic. Això ens permetrà emmagatzemar dades de manera eficaç i reflectir les connexions entre diverses entitats.
+Aquest subconjunt de dades de patrons s'ha de carregar primer a la base de dades de gràfics. S'organitzaran les dades utilitzant les característiques de Neo4J perquè apareguin com a nodes (entitats) i relacions (connexions) al gràfic. Això permetrà emmagatzemar dades de manera eficaç i reflectir les connexions entre diverses entitats.
 
-Podem executar consultes per obtenir informació específica un cop les dades s'han carregat a Neo4J. Això implica navegar pel gràfic i recuperar dades mitjançant el llenguatge de consulta de gràfics (Cypher) segons diversos criteris.
+Posteriorment s'executaran consultes per obtenir informació específica un cop les dades s'han carregat a Neo4J. Això implica navegar pel gràfic i recuperar dades mitjançant el llenguatge de consulta de gràfics (Cypher) segons diversos criteris.
 
-Tindrem l'oportunitat d'investigar algorismes d'anàlisi de gràfics a més de treballar amb dades i consultes. Amb l'ajuda d'aquests algorismes, podem extreure dades valuoses de gràfics, com ara comunitats, camins més curts o patrons de connexió. Serem capaços d'analitzar i comprendre les dades del patró de manera més a fons mitjançant aquests algorismes des d'una perspectiva de gràfics.
+Es tindrà l'oportunitat d'investigar algorismes d'anàlisi de gràfics a més de treballar amb dades i consultes. Amb l'ajuda d'aquests algorismes, es podrà extreure dades valuoses de gràfics, com ara comunitats, camins més curts o patrons de connexió. S'analitzaran i es comprendran les dades del patró de manera més a fons mitjançant aquests algorismes des d'una perspectiva de gràfics.
 
 ### Part 1: Importació de les dades i implementació de l'script
 
