@@ -1,15 +1,38 @@
 ### Consulta 1:
-match (p:Individu)-[:VIU]->(h:Habitatge) where h.Any_Padro=1866 and h.Municipi="CR" return count(p), collect(p.Cognom)
+MATCH (p:Individu)-[:VIU]->(h:Habitatge)
+WHERE h.Any_Padro=1866 AND h.Municipi="CR"
+RETURN count(p), collect(p.Cognom)
 
 ### Consulta 2:
 MATCH (i:Individu)-[:VIU]->(h:Habitatge)
 WHERE h.Municipi = "SFLL" AND i.Cognom <> 'nan'
-WITH h.Id AS ID, i.Any_Padro AS Any_Padro, count(h.Id) AS Recompte, collect(DISTINCT(i.Cognom)) AS Cognoms
-RETURN Any_Padro, Recompte, Cognoms ORDER BY Any_Padro ASC
+WITH h.Id AS ID, i.Any_Padro AS Any_Padro, 
+        count(h.Id) AS Recompte, 
+        collect(DISTINCT(i.Cognom)) AS Cognoms   
+ RETURN Any_Padro, Recompte, Cognoms ORDER BY Any_Padro ASC
+
+### Consulta 3:
+MATCH ( h : Habitatge { Municipi :" SFLL "})
+WHERE 1800 < h . Any_Padro <1845
+RETURN h . Municipi , h . Any_Padro , collect ( distinct h . Id )
+ORDER BY h . Any_Padro
 
 ### Consulta 4:
-match (p:Individu{Nom:'rafel',Cognom:'marti'})-[:VIU]->(h:Habitatge{Municipi:"SFLL",Any_Padro:1838})<-[:VIU]-(p2:Individu) return p2.Nom
+MATCH (p:Individu{Nom:'rafel',Cognom:'marti'})-[:VIU]->
+        (h:Habitatge{Municipi:"SFLL",Any_Padro:1838})<-[:VIU]-(p2:Individu) 
+RETURN p2.Nom
+    
+### Consulta 5:
+MATCH (p:Individu{Nom:'miguel',Cognom:'estape',Segon_Cognom:'bofill'})
+        <-[:SAME_AS]->(p2:Individu) 
+RETURN p,p2
 
+### Consulta 6:
+MATCH (p:Individu{Nom:'miguel',Cognom:'estape',Segon_Cognom:'bofill'})
+        <-[:SAME_AS]->(p2:Individu)        
+RETURN p.Nom, collect(distinct p2.Cognom), 
+        collect(distinct p2.Segon_Cognom)
+        
 ### Consulta 7:
 MATCH (p:Individu {Nom:'benito',Cognom:'julivert'})-[f:FAMILIA]-(otraPersona:Individu)
 RETURN otraPersona.Nom AS Nom,
@@ -26,11 +49,52 @@ RETURN fill.Nom AS Nom,
        f.Relacio_Harmonitzada AS Tipus_Relació
 ORDER BY Nom ASC
 
+### Consulta 9:
+MATCH (:Individu)-[f:Familia]->(:Individu)
+RETURN f.Relacio
+
+### Consulta 10:
+MATCH (h:Habitatge)
+WHERE h.Municipi = "SFLL" AND h.Carrer <> 'null' AND h.Numero <> -1
+RETURN h.Carrer AS Carrer, h.Numero AS Numero, count(h.Id) AS Aparicions, 
+       collect(DISTINCT(h.Any_Padro)) AS Anys, 
+       collect(DISTINCT(h.Id)) AS Llista_Ids 
+ORDER BY Aparicions DESC 
+LIMIT 15
+
 ### Consulta 11:
-CALL{MATCH (i:Individu)-[f:Familia]->(:Individu)-[:VIU]->(h:Habitatge)
-WHERE h.Municipi = "CR" AND (f.Relacio = "fill" OR f.Relacio = "filla")
-RETURN i} 
-MATCH (i)<-[f:Familia]-(p:Individu)
-WITH count(i) AS Nombre_Fills, f AS familia, p AS CAP LIMIT 15
-WHERE familia.Relacio = "cap" AND Nombre_Fills > 3
-RETURN CAP.Nom AS Nom, CAP.Cognom AS Cognom, CAP.Segon_Cognom AS Segon_Cognom, Nombre_Fills AS Nombre_Fills ORDER BY Nombre_Fills DESC 
+MATCH (f:FAMILIA)-[:VIU]->(:HABITATGE {Municipi: 'CR'})
+WITH f, cap, 
+        size([ f in f.Relacio_Harmonitzada IN ['fill', 'filla']]) AS nfills
+WHERE nfills > 3
+RETURN f.cap.Nom AS Nom,
+       f.cap.Cognom AS Cognom1,
+       f.cap.Segon_Cognom AS Cognom2,
+       nfills AS Nombre_de_fills
+ORDER BY nfills DESC
+LIMIT 20
+
+### Consulta 12:
+CALL{
+        MATCH (p2:Individu)-[:VIU{Any_Habitatge:1881}]->                
+            (h:Habitatge{Municipi:'SFLL'})<-[:VIU]-(p:Individu) 
+            
+        RETURN p,p2,h
+    }
+MATCH(p)<-[r:FAMILIA]-(p2) 
+WHERE r.Relacio_Harmonitzada="fill" or r.Relacio_Harmonitzada="filla"   
+RETURN count(distinct p.Id),count(distinct h.Id), 
+        toFloat(count(distinct p.Id))/toFloat(count(distinct h.Id))
+
+### Consulta 13:
+CALL {
+        MATCH (i:Individu)-[:VIU]->(h:Habitatge)
+        WHERE h.Municipi = 'SFLL'
+        WITH h.Any_Padro AS Any, h.Carrer AS Carrer, count(i) AS Habitants
+        
+        RETURN Any, Carrer, min(Habitants) AS Min_Habitants
+    }
+    
+RETURN Any, Carrer, Min_Habitants
+ORDER BY Any ASC
+
