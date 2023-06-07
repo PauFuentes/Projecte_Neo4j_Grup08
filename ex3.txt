@@ -1,0 +1,53 @@
+3.1
+
+CALL gds.graph.create('myGraph3', {
+      Habitatge: {
+        label: 'Habitatge',
+        properties: 'Municipi,Id_Llar,Any_Padro,Carrer,Numero'
+      },
+      Individu: {
+        label: 'Individu',
+        properties: 'Id,Year,name,surname,second_surname'
+      }
+    }, {
+      VIU: {
+        type: 'VIU',
+        orientation: 'NATURAL',
+        properties: 'INDIVIDU,Location,Year,HOUSE_ID'
+      },
+      FAMILIA: {
+        type: 'FAMILIA',
+        orientation: 'NATURAL',
+        properties: 'ID_1,Relacio,Relacio_Harmonitzada,ID_2'
+      },
+      SAME_AS: {
+        type: 'SAME_AS',
+        orientation: 'NATURAL',
+        properties: 'Id_A,SAME_AS,Id_B'
+      }
+    })
+
+
+ CALL gds.wcc.stream('myGraph3')
+ YIELD nodeId, componentId   
+ WITH componentId, count(*) AS componentSize
+ 
+RETURN size, count(*) AS count
+ ORDER BY size ASC
+
+3.2
+graf creat a apartat 1
+
+CALL gds.wcc.stream('myGraph3')
+YIELD nodeId, componentId
+WITH gds.util.nodePropertiesById(nodeId) AS nodeProperties, componentId
+    
+RETURN nodeProperties.label AS nodeType, componentId, count(*) AS count
+ORDER BY componentId ASC, count DESC
+
+
+3.3
+
+
+3.4
+
