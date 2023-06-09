@@ -1,4 +1,5 @@
-3.1
+#a)
+3.a.1
 CALL gds.graph.create('myGraph3', {
       Habitatge: {
         label: 'Habitatge',
@@ -34,7 +35,7 @@ CALL gds.graph.create('myGraph3', {
 RETURN size, count(*) AS count
  ORDER BY size ASC
 
-3.2
+3.a.2
 CALL gds.graph.project('myGraph2', ['Habitatge', 'Individu'],['VIU'])
 
 (Proporció Individus/Habitatge)
@@ -70,10 +71,19 @@ WITH labels(gds.util.asNode(nodeId)) AS Nodes, componentId, count(*) AS Quantita
 WHERE 'Habitatge' IN Nodes AND Quantitat > 1
 RETURN Nodes,  componentId,  Quantitat
 ORDER BY componentId
-3.3
 
+3.a.3
+CALL gds.graph.project('myGraph4', {Individu:{label: 'Individu',properties:['Any_Padro']}}, ['FAMILIA'])
 
-3.4
+CALL gds.wcc.stream('myGraph4')
+YIELD nodeId, componentId
+WITH collect(nodeId) as Nodes, componentId
+MATCH(i:Individu)
+WHERE id(i) IN Nodes
+RETURN i.Any_Padro AS Any, componentId, count(*) AS Nombre_Persones, collect(DISTINCT i.Cognom) AS Cognoms
+ORDER BY Cognoms[0], Any ASC
+
+3.a.4
 CALL gds.graph.project('myGraph2', ['Habitatge', 'Individu'],['VIU'])
 
 (Habitatges sense Individus)
@@ -94,3 +104,48 @@ MATCH (n)
 WHere id(n) IN nodes
 RETURN n.Any_Padro, count(n) 
 ORDER BY n.Any_Padro ASC
+
+
+
+
+#b)
+
+3.b.1
+
+match (h1:Habitatge), (h2:Habitatge)
+where h1.Municipi=h2.Municipi and apoc.text.sorensenDiceSimilarity(h1.Carrer,h2.Carrer)>0.5 and h1.Carrer is not null and h1.Numero=h2.Numero and h1.Numero<>-1 and h1.Any_Padro>h2.Any_Padro
+merge (h1)-[:MATEIX_HAB]->(h2)
+
+3.b.2
+
+CALL gds.graph.project('myGraphs', {
+  Individu: {
+    label: 'Individu',
+    properties: 'Id'
+  },
+  Habitatge: {
+    label: 'Habitatge',
+    properties: 'Id'
+  }
+}, {
+  VIU: {
+    type: 'VIU',
+    orientation: 'NATURAL'
+  },
+  FAMILIA: {
+    type: 'FAMILIA',
+    orientation: 'NATURAL'
+  },
+  MATEIX_HAB: {
+    type: 'MATEIX_HAB',
+    orientation: 'NATURAL'
+  }
+})
+
+3.b.3
+
+CALL gds.nodeSimilarity.write('myGraphs', {
+  writeRelationshipType: 'SIMILAR',
+  writeProperty: 'score'
+}) yield nodesCompared, relationshipsWritten
+
