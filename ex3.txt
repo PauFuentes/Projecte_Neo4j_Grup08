@@ -44,6 +44,18 @@ WITH labels(gds.util.asNode(nodeId)) AS Nodes, componentId, count(*) AS Quantita
 RETURN Nodes,  componentId,  Quantitat
 ORDER BY componentId
 
+CALL gds.wcc.stream('myGraph2')  
+YIELD componentId, nodeId
+WITH labels(gds.util.asNode(nodeId)) AS Nodes, componentId, count(*) AS Quantitat
+WHERE 'Individu' IN Nodes
+RETURN Nodes, AVG(Quantitat) AS Mitjana
+
+CALL gds.wcc.stream('myGraph2')  
+YIELD componentId, nodeId
+WITH labels(gds.util.asNode(nodeId)) AS Nodes, componentId, count(*) AS Quantitat
+WHERE 'Individu' IN Nodes AND Quantitat > 1
+RETURN Nodes, AVG(Quantitat) AS Mitjana
+
 (Màxim nombre d'individus en un mateix habitatge)
 CALL gds.wcc.stream('myGraph2')  
 YIELD componentId, nodeId
