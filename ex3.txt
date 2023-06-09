@@ -149,3 +149,5 @@ CALL gds.nodeSimilarity.write('myGraphs', {
   writeProperty: 'score'
 }) yield nodesCompared, relationshipsWritten
 
+MATCH (i)-[:SIMILAR]->(o)
+RETURN i, o
