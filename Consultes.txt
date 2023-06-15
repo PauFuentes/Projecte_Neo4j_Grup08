@@ -6,10 +6,10 @@ RETURN count(p) AS `Nombre d'habitants`, collect(p.Cognom) AS Cognoms
 ### Consulta 2:
 MATCH (i:Individu)-[:VIU]->(h:Habitatge)
 WHERE h.Municipi = "SFLL" AND i.Cognom <> 'nan'
-WITH h.Id AS ID, i.Any_Padro AS Any_Padro, 
+WITH i.Any_Padro AS Any_Padro, 
         count(h.Id) AS Recompte, 
         collect(DISTINCT(i.Cognom)) AS Cognoms   
-RETURN Any_Padro, Recompte, Cognoms
+RETURN Any_Padro, Recompte, Cognoms 
 
 ### Consulta 3:
 MATCH (h:Habitatge{Municipi:"SFLL"})
