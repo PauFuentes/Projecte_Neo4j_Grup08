@@ -26,4 +26,4 @@ Aquesta primera part consta de l'elevoració d'un fitxer d'extensió .cypher que
 En segon lloc s'ha implementat la ressolució de les diverses consultes proposades.
 
 ### Part 3: Anàlisi del graf
-
+En aquesta tercera part, es realitza una anàlisi del graf proporcionat. L'anàlisi del graf implica examinar-ne les característiques principals, com ara la seva estructura, els nodes importants i les connexions entre ells.
