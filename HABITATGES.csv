@@ -3,18 +3,19 @@ CR,1,1866,parra,1
 CR,2,1866,parra,3
 CR,3,1866,parra,4
 CR,4,1866,parra,6
-CR,5,1866,parra,-1
-CR,12,1866,st antonio,3
-CR,13,1866,st antonio,6
-CR,17,1866,st antonio,10
-CR,18,1866,st antonio,11
-CR,8,1866,st antonio,1
-CR,9,1866,st antonio,2
-SFLL,584,1881,st antonio,4
-CR,16,1866,st antonio,9
-CR,15,1866,st antonio,8
-CR,11,1866,st antonio,4
-CR,22,1866,monjuich,-1
+CR,5,1866,calle de la parra,null
+CR,12,1866,s antonio,3
+CR,10,1866,s antonio,3
+CR,13,1866,s antonio,6
+CR,17,1866,s antonio,10
+CR,18,1866,s antonio,11
+CR,8,1866,s antonio,1
+CR,9,1866,s antonio,2
+SFLL,584,1881,s antonio,4
+CR,16,1866,s anotonio,9
+CR,15,1866,s anotonio,8
+CR,11,1866,s anotonio,4
+CR,22,1866,monjuich,null
 CR,23,1866,monjuich,1
 CR,24,1866,monjuich,2
 CR,25,1866,monjuich,3
@@ -23,13 +24,13 @@ CR,27,1866,monjuich,5
 CR,28,1866,monjuich,6
 CR,29,1866,de la fuente,1
 CR,36,1866,angels,7
-null,42,1866,null,-1
+null,42,1866,null,null
 CR,48,1866,campo,6
 CR,63,1866,campo,15
 CR,49,1866,campo,8
-CR,64,1866,campo,-1
-CR,60,1866,campo,-1
-CR,47,1866,campo,-1
+CR,64,1866,campo,null
+CR,60,1866,campo,null
+CR,47,1866,campo,null
 CR,50,1866,campo,9
 CR,65,1866,campo,16
 CR,43,1866,campo,1
@@ -45,12 +46,12 @@ CR,61,1866,campo,12
 CR,69,1866,campo,20
 CR,62,1866,campo,13
 CR,70,1866,campo,21
-null,6,1866,null,-1
+null,6,1866,null,null
 CR,30,1866,calle de la fuente,2
 CR,31,1866,calle de la fuente,3
 CR,32,1866,calle de la fuente,4
-null,7,1866,null,-1
-CR,14,1866,st antonio,7
+null,7,1866,null,null
+CR,14,1866,s abtonio,7
 CR,37,1866,miralles,1
 CR,38,1866,miralles,3
 CR,39,1866,miralles,4
@@ -63,26 +64,26 @@ CR,33,1866,angels,2
 CR,34,1866,angels,4
 CR,35,1866,angels,5
 SFLL,5,1878,carretera,3
-SFLL,8,1878,carretera,4
+SFLL,8,1878,carretª,4
 SFLL,3,1881,carretera,4
 SFLL,1,1878,carretera,1
 SFLL,1,1881,carretera,1
 SFLL,2,1881,carretera,2
 SFLL,118,1889,carretera,2
-SFLL,2,1878,carretera,-1
-SFLL,3,1878,carretera,-1
-SFLL,4,1878,carretera,-1
-SFLL,6,1878,carretera,-1
-SFLL,7,1878,carretera,-1
-SFLL,154,1878,carretera,-1
-SFLL,157,1878,carretera,-1
-SFLL,158,1878,carretera,-1
-SFLL,159,1878,carretera,-1
-SFLL,160,1878,carretera,-1
-SFLL,161,1878,carretera,-1
-SFLL,162,1878,carretera,-1
-SFLL,163,1878,carretera,-1
-SFLL,658,1878,carretera,-1
+SFLL,2,1878,carretera,null
+SFLL,3,1878,carretera,null
+SFLL,4,1878,carretera,null
+SFLL,6,1878,carretera,null
+SFLL,7,1878,carretera,null
+SFLL,154,1878,carretera,null
+SFLL,157,1878,carretera,null
+SFLL,158,1878,carretera,null
+SFLL,159,1878,carretera,null
+SFLL,160,1878,carretera,null
+SFLL,161,1878,carretera,null
+SFLL,162,1878,carretera,null
+SFLL,163,1878,carretera,null
+SFLL,658,1878,carretera,null
 SFLL,321,1838,carretera,7
 SFLL,5,1881,carretera,7
 SFLL,324,1838,carretera,10
@@ -118,7 +119,7 @@ SFLL,9,1889,carretera,17
 SFLL,332,1838,carretera,18
 SFLL,333,1838,carretera,18
 SFLL,334,1838,carretera,18
-SFLL,24,1878,carretera,18
+SFLL,24,1878,carretª,18
 SFLL,15,1881,carretera,18
 SFLL,123,1889,carretera,18
 SFLL,335,1838,carretera,19
@@ -533,7 +534,7 @@ SFLL,165,1889,carretera,104
 SFLL,672,1878,carretera,258
 SFLL,274,1881,carretera,258
 SFLL,235,1889,carretera,258
-SFLL,16,1881,carretera,-1
+SFLL,16,1881,carretera,null
 SFLL,32,1881,carretera,34
 SFLL,132,1889,carretera,34
 SFLL,59,1881,carretera,61
@@ -739,7 +740,7 @@ SFLL,51,1889,carretera,992
 SFLL,52,1889,carretera,992
 SFLL,67,1889,carretera,129
 SFLL,83,1889,carretera,171
-SFLL,88,1889,carretera,-1
+SFLL,88,1889,carretera,null
 SFLL,93,1889,carretera,189
 SFLL,112,1889,carretera,227
 SFLL,113,1889,carretera,231
@@ -757,50 +758,50 @@ SFLL,240,1889,carretera,268
 SFLL,243,1889,carretera,274
 SFLL,244,1889,carretera,276
 SFLL,245,1889,carretera,278
-SFLL,246,1889,carretera,-1
+SFLL,246,1889,carretera,null
 SFLL,247,1889,carretera,280
-SFLL,248,1889,carretera,-1
+SFLL,248,1889,carretera,null
 SFLL,249,1889,carretera,282
 SFLL,250,1889,carretera,284
 SFLL,251,1889,carretera,284
 SFLL,252,1889,carretera,286
 SFLL,253,1889,carretera,288
-SFLL,562,1889,st antonio,1
-SFLL,563,1889,st antonio,1
-SFLL,564,1889,st antonio,1
-SFLL,565,1889,st antonio,1
-SFLL,566,1889,st antonio,1
-SFLL,567,1889,st antonio,1
-SFLL,568,1889,st antonio,1
-SFLL,571,1889,st antonio,13
-SFLL,572,1889,st antonio,15
-SFLL,578,1889,st antonio,2
-SFLL,573,1889,st antonio,17
-SFLL,574,1889,st antonio,19
-SFLL,570,1889,st antonio,11
-SFLL,575,1889,st antonio,21
-SFLL,569,1889,st antonio,9
-SFLL,576,1889,st antonio,23
-SFLL,583,1889,st antonio,12
-SFLL,589,1889,st antonio,24
-SFLL,581,1889,st antonio,8
-SFLL,582,1889,st antonio,10
-SFLL,584,1889,st antonio,14
-SFLL,585,1889,st antonio,16
-SFLL,586,1889,st antonio,18
-SFLL,587,1889,st antonio,20
-SFLL,579,1889,st antonio,4
-SFLL,588,1889,st antonio,22
-SFLL,577,1889,st antonio,25
-SFLL,580,1889,st antonio,6
-SFLL,95,1833,iglesia,-1
-SFLL,99,1833,iglesia,-1
-SFLL,101,1833,iglesia,-1
-SFLL,103,1833,iglesia,-1
-SFLL,105,1833,iglesia,-1
-SFLL,107,1833,iglesia,-1
-SFLL,109,1833,iglesia,-1
-SFLL,111,1833,iglesia,-1
+SFLL,562,1889,san antonio,1
+SFLL,563,1889,san antonio,1
+SFLL,564,1889,san antonio,1
+SFLL,565,1889,san antonio,1
+SFLL,566,1889,san antonio,1
+SFLL,567,1889,san antonio,1
+SFLL,568,1889,san antonio,1
+SFLL,571,1889,san antonio,13
+SFLL,572,1889,san antonio,15
+SFLL,578,1889,san antonio,2
+SFLL,573,1889,san antonio,17
+SFLL,574,1889,san antonio,19
+SFLL,570,1889,san antonio,11
+SFLL,575,1889,san antonio,21
+SFLL,569,1889,san antonio,9
+SFLL,576,1889,san antonio,23
+SFLL,583,1889,san antonio,12
+SFLL,589,1889,san antonio,24
+SFLL,581,1889,san antonio,8
+SFLL,582,1889,san antonio,10
+SFLL,584,1889,san antonio,14
+SFLL,585,1889,san antonio,16
+SFLL,586,1889,san antonio,18
+SFLL,587,1889,san antonio,20
+SFLL,579,1889,san antonio,4
+SFLL,588,1889,san antonio,22
+SFLL,577,1889,san antonio,25
+SFLL,580,1889,san antonio,6
+SFLL,95,1833,iglesia,null
+SFLL,99,1833,iglesia,null
+SFLL,101,1833,iglesia,null
+SFLL,103,1833,iglesia,null
+SFLL,105,1833,iglesia,null
+SFLL,107,1833,iglesia,null
+SFLL,109,1833,iglesia,null
+SFLL,111,1833,iglesia,null
 SFLL,94,1833,iglesia,1
 SFLL,721,1839,iglesia,1
 SFLL,514,1878,iglesia,1
@@ -926,27 +927,27 @@ SFLL,564,1878,iglesia,51
 SFLL,565,1878,iglesia,51
 SFLL,514,1881,iglesia,6
 SFLL,600,1889,plaza de la constitucion,12
-SFLL,601,1889,plaza de la constitucion,14
-SFLL,602,1889,plaza de la constitucion,16
-SFLL,113,1833,rectoria,-1
-SFLL,115,1833,rectoria,-1
-SFLL,118,1833,rectoria,-1
-SFLL,119,1833,rectoria,-1
-SFLL,120,1833,rectoria,-1
-SFLL,122,1833,rectoria,-1
-SFLL,124,1833,rectoria,-1
-SFLL,126,1833,rectoria,-1
-SFLL,128,1833,rectoria,-1
-SFLL,129,1833,rectoria,-1
-SFLL,130,1833,rectoria,-1
-SFLL,132,1833,rectoria,-1
-SFLL,134,1833,rectoria,-1
-SFLL,135,1833,rectoria,-1
-SFLL,136,1833,rectoria,-1
-SFLL,137,1833,rectoria,-1
-SFLL,140,1833,rectoria,-1
-SFLL,142,1833,rectoria,-1
-SFLL,144,1833,rectoria,-1
+SFLL,601,1889,plaza constitucion,14
+SFLL,602,1889,plaza constitucion,16
+SFLL,113,1833,rectoria,null
+SFLL,115,1833,rectoria,null
+SFLL,118,1833,rectoria,null
+SFLL,119,1833,rectoria,null
+SFLL,120,1833,rectoria,null
+SFLL,122,1833,rectoria,null
+SFLL,124,1833,rectoria,null
+SFLL,126,1833,rectoria,null
+SFLL,128,1833,rectoria,null
+SFLL,129,1833,rectoria,null
+SFLL,130,1833,rectoria,null
+SFLL,132,1833,rectoria,null
+SFLL,134,1833,rectoria,null
+SFLL,135,1833,rectoria,null
+SFLL,136,1833,rectoria,null
+SFLL,137,1833,rectoria,null
+SFLL,140,1833,rectoria,null
+SFLL,142,1833,rectoria,null
+SFLL,144,1833,rectoria,null
 SFLL,112,1833,rectoria,1
 SFLL,629,1839,rectoria,1
 SFLL,114,1833,rectoria,3
@@ -987,468 +988,468 @@ SFLL,644,1839,rectoria,15
 SFLL,646,1839,rectoria,17
 SFLL,650,1839,rectoria,21
 SFLL,652,1839,rectoria,23
-null,1,1828,null,-1
-null,2,1828,null,-1
-null,3,1828,null,-1
-null,4,1828,null,-1
-null,5,1828,null,-1
-null,6,1828,null,-1
-null,7,1828,null,-1
-null,8,1828,null,-1
-null,9,1828,null,-1
-null,10,1828,null,-1
-null,11,1828,null,-1
-null,12,1828,null,-1
-null,13,1828,null,-1
-null,14,1828,null,-1
-null,15,1828,null,-1
-null,16,1828,null,-1
-null,17,1828,null,-1
-null,18,1828,null,-1
-null,19,1828,null,-1
-null,20,1828,null,-1
-null,21,1828,null,-1
-null,22,1828,null,-1
-null,23,1828,null,-1
-null,24,1828,null,-1
-null,25,1828,null,-1
-null,26,1828,null,-1
-null,27,1828,null,-1
-null,28,1828,null,-1
-null,29,1828,null,-1
-null,30,1828,null,-1
-null,31,1828,null,-1
-null,32,1828,null,-1
-null,33,1828,null,-1
-null,34,1828,null,-1
-null,35,1828,null,-1
-null,36,1828,null,-1
-null,37,1828,null,-1
-null,38,1828,null,-1
-null,39,1828,null,-1
-null,40,1828,null,-1
-null,41,1828,null,-1
-null,42,1828,null,-1
-null,43,1828,null,-1
-null,44,1828,null,-1
-null,45,1828,null,-1
-null,46,1828,null,-1
-null,47,1828,null,-1
-null,48,1828,null,-1
-null,49,1828,null,-1
-null,50,1828,null,-1
-null,51,1828,null,-1
-null,52,1828,null,-1
-null,53,1828,null,-1
-null,54,1828,null,-1
-null,55,1828,null,-1
-null,56,1828,null,-1
-null,57,1828,null,-1
-null,58,1828,null,-1
-null,59,1828,null,-1
-null,60,1828,null,-1
-null,61,1828,null,-1
-null,62,1828,null,-1
-null,63,1828,null,-1
-null,64,1828,null,-1
-null,65,1828,null,-1
-null,66,1828,null,-1
-null,67,1828,null,-1
-null,68,1828,null,-1
-null,69,1828,null,-1
-null,70,1828,null,-1
-null,71,1828,null,-1
-null,72,1828,null,-1
-null,73,1828,null,-1
-null,74,1828,null,-1
-null,75,1828,null,-1
-null,76,1828,null,-1
-null,77,1828,null,-1
-null,78,1828,null,-1
-null,79,1828,null,-1
-null,80,1828,null,-1
-null,81,1828,null,-1
-null,82,1828,null,-1
-null,83,1828,null,-1
-null,84,1828,null,-1
-null,85,1828,null,-1
-null,86,1828,null,-1
-null,87,1828,null,-1
-null,88,1828,null,-1
-null,89,1828,null,-1
-null,90,1828,null,-1
-null,91,1828,null,-1
-null,92,1828,null,-1
-null,93,1828,null,-1
-null,94,1828,null,-1
-null,95,1828,null,-1
-null,96,1828,null,-1
-null,97,1828,null,-1
-null,98,1828,null,-1
-null,99,1828,null,-1
-null,100,1828,null,-1
-null,101,1828,null,-1
-null,102,1828,null,-1
-null,103,1828,null,-1
-null,104,1828,null,-1
-null,105,1828,null,-1
-null,106,1828,null,-1
-null,107,1828,null,-1
-null,108,1828,null,-1
-null,109,1828,null,-1
-null,110,1828,null,-1
-null,111,1828,null,-1
-null,112,1828,null,-1
-null,113,1828,null,-1
-null,114,1828,null,-1
-null,115,1828,null,-1
-null,116,1828,null,-1
-null,117,1828,null,-1
-null,118,1828,null,-1
-null,119,1828,null,-1
-null,120,1828,null,-1
-null,121,1828,null,-1
-null,122,1828,null,-1
-null,123,1828,null,-1
-null,124,1828,null,-1
-null,125,1828,null,-1
-null,126,1828,null,-1
-null,127,1828,null,-1
-null,128,1828,null,-1
-null,129,1828,null,-1
-null,130,1828,null,-1
-null,131,1828,null,-1
-null,132,1828,null,-1
-null,133,1828,null,-1
-null,134,1828,null,-1
-null,135,1828,null,-1
-null,136,1828,null,-1
-null,137,1828,null,-1
-null,138,1828,null,-1
-null,139,1828,null,-1
-null,140,1828,null,-1
-null,141,1828,null,-1
-null,142,1828,null,-1
-null,143,1828,null,-1
-null,144,1828,null,-1
-null,145,1828,null,-1
-null,146,1828,null,-1
-null,147,1828,null,-1
-null,148,1828,null,-1
-null,149,1828,null,-1
-null,150,1828,null,-1
-null,151,1828,null,-1
-null,152,1828,null,-1
-null,153,1828,null,-1
-null,154,1828,null,-1
-null,155,1828,null,-1
-null,156,1828,null,-1
-null,157,1828,null,-1
-null,158,1828,null,-1
-null,159,1828,null,-1
-null,160,1828,null,-1
-null,161,1828,null,-1
-null,162,1828,null,-1
-null,163,1828,null,-1
-null,164,1828,null,-1
-null,165,1828,null,-1
-null,166,1828,null,-1
-null,167,1828,null,-1
-null,168,1828,null,-1
-null,169,1828,null,-1
-null,170,1828,null,-1
-null,171,1828,null,-1
-null,172,1828,null,-1
-null,173,1828,null,-1
-null,174,1828,null,-1
-null,175,1828,null,-1
-null,176,1828,null,-1
-null,177,1828,null,-1
-null,178,1828,null,-1
-null,179,1828,null,-1
-null,180,1828,null,-1
-null,181,1828,null,-1
-null,182,1828,null,-1
-null,183,1828,null,-1
-null,184,1828,null,-1
-null,185,1828,null,-1
-null,186,1828,null,-1
-null,187,1828,null,-1
-null,188,1828,null,-1
-null,189,1828,null,-1
-null,190,1828,null,-1
-null,191,1828,null,-1
-null,192,1828,null,-1
-null,193,1828,null,-1
-null,194,1828,null,-1
-null,195,1828,null,-1
-null,196,1828,null,-1
-null,197,1828,null,-1
-null,198,1828,null,-1
-null,199,1828,null,-1
-null,200,1828,null,-1
-null,201,1828,null,-1
-null,202,1828,null,-1
-null,204,1828,null,-1
-null,205,1828,null,-1
-null,206,1828,null,-1
-null,207,1828,null,-1
-null,208,1828,null,-1
-null,209,1828,null,-1
-null,210,1828,null,-1
-null,211,1828,null,-1
-null,212,1828,null,-1
-null,213,1828,null,-1
-null,214,1828,null,-1
-null,215,1828,null,-1
-null,216,1828,null,-1
-null,217,1828,null,-1
-null,218,1828,null,-1
-null,219,1828,null,-1
-null,220,1828,null,-1
-null,221,1828,null,-1
-null,222,1828,null,-1
-null,223,1828,null,-1
-null,224,1828,null,-1
-null,225,1828,null,-1
-null,226,1828,null,-1
-null,227,1828,null,-1
-null,228,1828,null,-1
-null,229,1828,null,-1
-null,230,1828,null,-1
-null,231,1828,null,-1
-null,232,1828,null,-1
-null,233,1828,null,-1
-null,234,1828,null,-1
-null,235,1828,null,-1
-null,236,1828,null,-1
-null,237,1828,null,-1
-null,238,1828,null,-1
-null,239,1828,null,-1
-null,240,1828,null,-1
-null,241,1828,null,-1
-null,242,1828,null,-1
-null,243,1828,null,-1
-null,244,1828,null,-1
-null,245,1828,null,-1
-null,246,1828,null,-1
-null,247,1828,null,-1
-null,248,1828,null,-1
-null,249,1828,null,-1
-null,250,1828,null,-1
-null,251,1828,null,-1
-null,252,1828,null,-1
-null,253,1828,null,-1
-null,254,1828,null,-1
-null,255,1828,null,-1
-null,256,1828,null,-1
-null,257,1828,null,-1
-null,258,1828,null,-1
-null,259,1828,null,-1
-null,260,1828,null,-1
-null,261,1828,null,-1
-null,262,1828,null,-1
-null,263,1828,null,-1
-null,264,1828,null,-1
-null,265,1828,null,-1
-null,266,1828,null,-1
-null,267,1828,null,-1
-null,268,1828,null,-1
-null,269,1828,null,-1
-null,270,1828,null,-1
-null,271,1828,null,-1
-null,272,1828,null,-1
-null,273,1828,null,-1
-null,274,1828,null,-1
-null,275,1828,null,-1
-null,276,1828,null,-1
-null,277,1828,null,-1
-null,278,1828,null,-1
-null,279,1828,null,-1
-null,280,1828,null,-1
-null,281,1828,null,-1
-null,282,1828,null,-1
-null,283,1828,null,-1
-null,284,1828,null,-1
-null,285,1828,null,-1
-null,286,1828,null,-1
-null,287,1828,null,-1
-null,288,1828,null,-1
-null,289,1828,null,-1
-null,290,1828,null,-1
-null,291,1828,null,-1
-null,292,1828,null,-1
-null,293,1828,null,-1
-null,294,1828,null,-1
-null,295,1828,null,-1
-null,296,1828,null,-1
-null,297,1828,null,-1
-null,298,1828,null,-1
-null,299,1828,null,-1
-null,300,1828,null,-1
-null,301,1828,null,-1
-null,302,1828,null,-1
-null,303,1828,null,-1
-null,304,1828,null,-1
-null,305,1828,null,-1
-null,306,1828,null,-1
-null,307,1828,null,-1
-null,308,1828,null,-1
-null,309,1828,null,-1
-null,310,1828,null,-1
-null,311,1828,null,-1
-null,312,1828,null,-1
-null,313,1828,null,-1
-null,314,1828,null,-1
-null,315,1828,null,-1
-null,316,1828,null,-1
-null,317,1828,null,-1
-null,318,1828,null,-1
-null,319,1828,null,-1
-null,320,1828,null,-1
-null,321,1828,null,-1
-null,322,1828,null,-1
-null,323,1828,null,-1
-null,324,1828,null,-1
-null,325,1828,null,-1
-null,326,1828,null,-1
-null,327,1828,null,-1
-null,328,1828,null,-1
-null,329,1828,null,-1
-null,330,1828,null,-1
-null,331,1828,null,-1
-null,332,1828,null,-1
-null,333,1828,null,-1
-null,334,1828,null,-1
-null,335,1828,null,-1
-null,336,1828,null,-1
-null,337,1828,null,-1
-null,338,1828,null,-1
-null,339,1828,null,-1
-null,340,1828,null,-1
-null,341,1828,null,-1
-null,342,1828,null,-1
-null,343,1828,null,-1
-null,344,1828,null,-1
-null,345,1828,null,-1
-null,346,1828,null,-1
-null,347,1828,null,-1
-null,348,1828,null,-1
-null,349,1828,null,-1
-null,350,1828,null,-1
-null,351,1828,null,-1
-null,352,1828,null,-1
-null,353,1828,null,-1
-null,354,1828,null,-1
-null,355,1828,null,-1
-null,356,1828,null,-1
-null,357,1828,null,-1
-null,358,1828,null,-1
-null,359,1828,null,-1
-null,360,1828,null,-1
-null,361,1828,null,-1
-null,362,1828,null,-1
-null,363,1828,null,-1
-null,364,1828,null,-1
-null,365,1828,null,-1
-null,366,1828,null,-1
-null,367,1828,null,-1
-null,368,1828,null,-1
-null,369,1828,null,-1
-null,370,1828,null,-1
-null,371,1828,null,-1
-null,372,1828,null,-1
-null,373,1828,null,-1
-null,374,1828,null,-1
-null,375,1828,null,-1
-null,376,1828,null,-1
-null,377,1828,null,-1
-null,378,1828,null,-1
-null,379,1828,null,-1
-null,380,1828,null,-1
-null,381,1828,null,-1
-null,382,1828,null,-1
-null,383,1828,null,-1
-null,384,1828,null,-1
-null,385,1828,null,-1
-null,386,1828,null,-1
-null,387,1828,null,-1
-null,388,1828,null,-1
-null,389,1828,null,-1
-null,390,1828,null,-1
-null,391,1828,null,-1
-null,392,1828,null,-1
-null,393,1828,null,-1
-null,394,1828,null,-1
-null,395,1828,null,-1
-null,396,1828,null,-1
-null,397,1828,null,-1
-null,398,1828,null,-1
-null,399,1828,null,-1
-null,400,1828,null,-1
-null,401,1828,null,-1
-null,402,1828,null,-1
-null,403,1828,null,-1
-null,404,1828,null,-1
-null,405,1828,null,-1
-null,406,1828,null,-1
-null,407,1828,null,-1
-null,408,1828,null,-1
-null,409,1828,null,-1
-null,410,1828,null,-1
-null,411,1828,null,-1
-null,412,1828,null,-1
-null,413,1828,null,-1
-null,414,1828,null,-1
-null,415,1828,null,-1
-null,416,1828,null,-1
-null,417,1828,null,-1
-null,418,1828,null,-1
-null,419,1828,null,-1
-null,420,1828,null,-1
-null,421,1828,null,-1
-null,422,1828,null,-1
-null,423,1828,null,-1
-null,424,1828,null,-1
-null,425,1828,null,-1
-null,426,1828,null,-1
-null,427,1828,null,-1
-null,1,1833,null,-1
-null,2,1833,null,-1
-null,3,1833,null,-1
-null,4,1833,null,-1
-null,5,1833,null,-1
-null,6,1833,null,-1
-null,7,1833,null,-1
-null,8,1833,null,-1
-null,9,1833,null,-1
-SFLL,10,1833,carretera de la part de molins de rey,14
-SFLL,11,1833,carretera de la part de molins de rey,-1
-SFLL,15,1833,carretera de la part de molins de rey,-1
-SFLL,16,1833,carretera de la part de molins de rey,-1
-SFLL,18,1833,carretera de la part de molins de rey,-1
-SFLL,20,1833,carretera de la part de molins de rey,-1
-SFLL,22,1833,carretera de la part de molins de rey,-1
-SFLL,24,1833,carretera de la part de molins de rey,-1
-SFLL,26,1833,carretera de la part de molins de rey,-1
-SFLL,29,1833,carretera de la part de molins de rey,-1
-SFLL,32,1833,carretera de la part de molins de rey,-1
-SFLL,34,1833,carretera de la part de molins de rey,-1
-SFLL,35,1833,carretera de la part de molins de rey,-1
-SFLL,36,1833,carretera de la part de molins de rey,-1
-SFLL,38,1833,carretera de la part de molins de rey,-1
-SFLL,39,1833,carretera de la part de molins de rey,-1
-SFLL,40,1833,carretera de la part de molins de rey,-1
-SFLL,44,1833,carretera de la part de molins de rey,-1
-SFLL,46,1833,carretera de la part de molins de rey,-1
-SFLL,47,1833,carretera de la part de molins de rey,-1
-SFLL,50,1833,carretera de la part de molins de rey,-1
-SFLL,51,1833,carretera de la part de molins de rey,-1
-SFLL,52,1833,carretera de la part de molins de rey,-1
-SFLL,56,1833,carretera de la part de molins de rey,-1
-SFLL,57,1833,carretera de la part de molins de rey,-1
-SFLL,58,1833,carretera de la part de molins de rey,-1
-SFLL,59,1833,carretera de la part de molins de rey,-1
+null,1,1828,null,null
+null,2,1828,null,null
+null,3,1828,null,null
+null,4,1828,null,null
+null,5,1828,null,null
+null,6,1828,null,null
+null,7,1828,null,null
+null,8,1828,null,null
+null,9,1828,null,null
+null,10,1828,null,null
+null,11,1828,null,null
+null,12,1828,null,null
+null,13,1828,null,null
+null,14,1828,null,null
+null,15,1828,null,null
+null,16,1828,null,null
+null,17,1828,null,null
+null,18,1828,null,null
+null,19,1828,null,null
+null,20,1828,null,null
+null,21,1828,null,null
+null,22,1828,null,null
+null,23,1828,null,null
+null,24,1828,null,null
+null,25,1828,null,null
+null,26,1828,null,null
+null,27,1828,null,null
+null,28,1828,null,null
+null,29,1828,null,null
+null,30,1828,null,null
+null,31,1828,null,null
+null,32,1828,null,null
+null,33,1828,null,null
+null,34,1828,null,null
+null,35,1828,null,null
+null,36,1828,null,null
+null,37,1828,null,null
+null,38,1828,null,null
+null,39,1828,null,null
+null,40,1828,null,null
+null,41,1828,null,null
+null,42,1828,null,null
+null,43,1828,null,null
+null,44,1828,null,null
+null,45,1828,null,null
+null,46,1828,null,null
+null,47,1828,null,null
+null,48,1828,null,null
+null,49,1828,null,null
+null,50,1828,null,null
+null,51,1828,null,null
+null,52,1828,null,null
+null,53,1828,null,null
+null,54,1828,null,null
+null,55,1828,null,null
+null,56,1828,null,null
+null,57,1828,null,null
+null,58,1828,null,null
+null,59,1828,null,null
+null,60,1828,null,null
+null,61,1828,null,null
+null,62,1828,null,null
+null,63,1828,null,null
+null,64,1828,null,null
+null,65,1828,null,null
+null,66,1828,null,null
+null,67,1828,null,null
+null,68,1828,null,null
+null,69,1828,null,null
+null,70,1828,null,null
+null,71,1828,null,null
+null,72,1828,null,null
+null,73,1828,null,null
+null,74,1828,null,null
+null,75,1828,null,null
+null,76,1828,null,null
+null,77,1828,null,null
+null,78,1828,null,null
+null,79,1828,null,null
+null,80,1828,null,null
+null,81,1828,null,null
+null,82,1828,null,null
+null,83,1828,null,null
+null,84,1828,null,null
+null,85,1828,null,null
+null,86,1828,null,null
+null,87,1828,null,null
+null,88,1828,null,null
+null,89,1828,null,null
+null,90,1828,null,null
+null,91,1828,null,null
+null,92,1828,null,null
+null,93,1828,null,null
+null,94,1828,null,null
+null,95,1828,null,null
+null,96,1828,null,null
+null,97,1828,null,null
+null,98,1828,null,null
+null,99,1828,null,null
+null,100,1828,null,null
+null,101,1828,null,null
+null,102,1828,null,null
+null,103,1828,null,null
+null,104,1828,null,null
+null,105,1828,null,null
+null,106,1828,null,null
+null,107,1828,null,null
+null,108,1828,null,null
+null,109,1828,null,null
+null,110,1828,null,null
+null,111,1828,null,null
+null,112,1828,null,null
+null,113,1828,null,null
+null,114,1828,null,null
+null,115,1828,null,null
+null,116,1828,null,null
+null,117,1828,null,null
+null,118,1828,null,null
+null,119,1828,null,null
+null,120,1828,null,null
+null,121,1828,null,null
+null,122,1828,null,null
+null,123,1828,null,null
+null,124,1828,null,null
+null,125,1828,null,null
+null,126,1828,null,null
+null,127,1828,null,null
+null,128,1828,null,null
+null,129,1828,null,null
+null,130,1828,null,null
+null,131,1828,null,null
+null,132,1828,null,null
+null,133,1828,null,null
+null,134,1828,null,null
+null,135,1828,null,null
+null,136,1828,null,null
+null,137,1828,null,null
+null,138,1828,null,null
+null,139,1828,null,null
+null,140,1828,null,null
+null,141,1828,null,null
+null,142,1828,null,null
+null,143,1828,null,null
+null,144,1828,null,null
+null,145,1828,null,null
+null,146,1828,null,null
+null,147,1828,null,null
+null,148,1828,null,null
+null,149,1828,null,null
+null,150,1828,null,null
+null,151,1828,null,null
+null,152,1828,null,null
+null,153,1828,null,null
+null,154,1828,null,null
+null,155,1828,null,null
+null,156,1828,null,null
+null,157,1828,null,null
+null,158,1828,null,null
+null,159,1828,null,null
+null,160,1828,null,null
+null,161,1828,null,null
+null,162,1828,null,null
+null,163,1828,null,null
+null,164,1828,null,null
+null,165,1828,null,null
+null,166,1828,null,null
+null,167,1828,null,null
+null,168,1828,null,null
+null,169,1828,null,null
+null,170,1828,null,null
+null,171,1828,null,null
+null,172,1828,null,null
+null,173,1828,null,null
+null,174,1828,null,null
+null,175,1828,null,null
+null,176,1828,null,null
+null,177,1828,null,null
+null,178,1828,null,null
+null,179,1828,null,null
+null,180,1828,null,null
+null,181,1828,null,null
+null,182,1828,null,null
+null,183,1828,null,null
+null,184,1828,null,null
+null,185,1828,null,null
+null,186,1828,null,null
+null,187,1828,null,null
+null,188,1828,null,null
+null,189,1828,null,null
+null,190,1828,null,null
+null,191,1828,null,null
+null,192,1828,null,null
+null,193,1828,null,null
+null,194,1828,null,null
+null,195,1828,null,null
+null,196,1828,null,null
+null,197,1828,null,null
+null,198,1828,null,null
+null,199,1828,null,null
+null,200,1828,null,null
+null,201,1828,null,null
+null,202,1828,null,null
+null,204,1828,null,null
+null,205,1828,null,null
+null,206,1828,null,null
+null,207,1828,null,null
+null,208,1828,null,null
+null,209,1828,null,null
+null,210,1828,null,null
+null,211,1828,null,null
+null,212,1828,null,null
+null,213,1828,null,null
+null,214,1828,null,null
+null,215,1828,null,null
+null,216,1828,null,null
+null,217,1828,null,null
+null,218,1828,null,null
+null,219,1828,null,null
+null,220,1828,null,null
+null,221,1828,null,null
+null,222,1828,null,null
+null,223,1828,null,null
+null,224,1828,null,null
+null,225,1828,null,null
+null,226,1828,null,null
+null,227,1828,null,null
+null,228,1828,null,null
+null,229,1828,null,null
+null,230,1828,null,null
+null,231,1828,null,null
+null,232,1828,null,null
+null,233,1828,null,null
+null,234,1828,null,null
+null,235,1828,null,null
+null,236,1828,null,null
+null,237,1828,null,null
+null,238,1828,null,null
+null,239,1828,null,null
+null,240,1828,null,null
+null,241,1828,null,null
+null,242,1828,null,null
+null,243,1828,null,null
+null,244,1828,null,null
+null,245,1828,null,null
+null,246,1828,null,null
+null,247,1828,null,null
+null,248,1828,null,null
+null,249,1828,null,null
+null,250,1828,null,null
+null,251,1828,null,null
+null,252,1828,null,null
+null,253,1828,null,null
+null,254,1828,null,null
+null,255,1828,null,null
+null,256,1828,null,null
+null,257,1828,null,null
+null,258,1828,null,null
+null,259,1828,null,null
+null,260,1828,null,null
+null,261,1828,null,null
+null,262,1828,null,null
+null,263,1828,null,null
+null,264,1828,null,null
+null,265,1828,null,null
+null,266,1828,null,null
+null,267,1828,null,null
+null,268,1828,null,null
+null,269,1828,null,null
+null,270,1828,null,null
+null,271,1828,null,null
+null,272,1828,null,null
+null,273,1828,null,null
+null,274,1828,null,null
+null,275,1828,null,null
+null,276,1828,null,null
+null,277,1828,null,null
+null,278,1828,null,null
+null,279,1828,null,null
+null,280,1828,null,null
+null,281,1828,null,null
+null,282,1828,null,null
+null,283,1828,null,null
+null,284,1828,null,null
+null,285,1828,null,null
+null,286,1828,null,null
+null,287,1828,null,null
+null,288,1828,null,null
+null,289,1828,null,null
+null,290,1828,null,null
+null,291,1828,null,null
+null,292,1828,null,null
+null,293,1828,null,null
+null,294,1828,null,null
+null,295,1828,null,null
+null,296,1828,null,null
+null,297,1828,null,null
+null,298,1828,null,null
+null,299,1828,null,null
+null,300,1828,null,null
+null,301,1828,null,null
+null,302,1828,null,null
+null,303,1828,null,null
+null,304,1828,null,null
+null,305,1828,null,null
+null,306,1828,null,null
+null,307,1828,null,null
+null,308,1828,null,null
+null,309,1828,null,null
+null,310,1828,null,null
+null,311,1828,null,null
+null,312,1828,null,null
+null,313,1828,null,null
+null,314,1828,null,null
+null,315,1828,null,null
+null,316,1828,null,null
+null,317,1828,null,null
+null,318,1828,null,null
+null,319,1828,null,null
+null,320,1828,null,null
+null,321,1828,null,null
+null,322,1828,null,null
+null,323,1828,null,null
+null,324,1828,null,null
+null,325,1828,null,null
+null,326,1828,null,null
+null,327,1828,null,null
+null,328,1828,null,null
+null,329,1828,null,null
+null,330,1828,null,null
+null,331,1828,null,null
+null,332,1828,null,null
+null,333,1828,null,null
+null,334,1828,null,null
+null,335,1828,null,null
+null,336,1828,null,null
+null,337,1828,null,null
+null,338,1828,null,null
+null,339,1828,null,null
+null,340,1828,null,null
+null,341,1828,null,null
+null,342,1828,null,null
+null,343,1828,null,null
+null,344,1828,null,null
+null,345,1828,null,null
+null,346,1828,null,null
+null,347,1828,null,null
+null,348,1828,null,null
+null,349,1828,null,null
+null,350,1828,null,null
+null,351,1828,null,null
+null,352,1828,null,null
+null,353,1828,null,null
+null,354,1828,null,null
+null,355,1828,null,null
+null,356,1828,null,null
+null,357,1828,null,null
+null,358,1828,null,null
+null,359,1828,null,null
+null,360,1828,null,null
+null,361,1828,null,null
+null,362,1828,null,null
+null,363,1828,null,null
+null,364,1828,null,null
+null,365,1828,null,null
+null,366,1828,null,null
+null,367,1828,null,null
+null,368,1828,null,null
+null,369,1828,null,null
+null,370,1828,null,null
+null,371,1828,null,null
+null,372,1828,null,null
+null,373,1828,null,null
+null,374,1828,null,null
+null,375,1828,null,null
+null,376,1828,null,null
+null,377,1828,null,null
+null,378,1828,null,null
+null,379,1828,null,null
+null,380,1828,null,null
+null,381,1828,null,null
+null,382,1828,null,null
+null,383,1828,null,null
+null,384,1828,null,null
+null,385,1828,null,null
+null,386,1828,null,null
+null,387,1828,null,null
+null,388,1828,null,null
+null,389,1828,null,null
+null,390,1828,null,null
+null,391,1828,null,null
+null,392,1828,null,null
+null,393,1828,null,null
+null,394,1828,null,null
+null,395,1828,null,null
+null,396,1828,null,null
+null,397,1828,null,null
+null,398,1828,null,null
+null,399,1828,null,null
+null,400,1828,null,null
+null,401,1828,null,null
+null,402,1828,null,null
+null,403,1828,null,null
+null,404,1828,null,null
+null,405,1828,null,null
+null,406,1828,null,null
+null,407,1828,null,null
+null,408,1828,null,null
+null,409,1828,null,null
+null,410,1828,null,null
+null,411,1828,null,null
+null,412,1828,null,null
+null,413,1828,null,null
+null,414,1828,null,null
+null,415,1828,null,null
+null,416,1828,null,null
+null,417,1828,null,null
+null,418,1828,null,null
+null,419,1828,null,null
+null,420,1828,null,null
+null,421,1828,null,null
+null,422,1828,null,null
+null,423,1828,null,null
+null,424,1828,null,null
+null,425,1828,null,null
+null,426,1828,null,null
+null,427,1828,null,null
+null,1,1833,null,null
+null,2,1833,null,null
+null,3,1833,null,null
+null,4,1833,null,null
+null,5,1833,null,null
+null,6,1833,null,null
+null,7,1833,null,null
+null,8,1833,null,null
+null,9,1833,null,null
+SFLL,10,1833,carretera de la part de molins,14
+SFLL,11,1833,carretera de la part de molins de rey,null
+SFLL,15,1833,carretera de la part de molins de rey,null
+SFLL,16,1833,carretera de la part de molins de rey,null
+SFLL,18,1833,carretera de la part de molins de rey,null
+SFLL,20,1833,carretera de la part de molins de rey,null
+SFLL,22,1833,carretera de la part de molins de rey,null
+SFLL,24,1833,carretera de la part de molins de rey,null
+SFLL,26,1833,carretera de la part de molins de rey,null
+SFLL,29,1833,carretera de la part de molins de rey,null
+SFLL,32,1833,carretera de la part de molins de rey,null
+SFLL,34,1833,carretera de la part de molins de rey,null
+SFLL,35,1833,carretera de la part de molins de rey,null
+SFLL,36,1833,carretera de la part de molins de rey,null
+SFLL,38,1833,carretera de la part de molins de rey,null
+SFLL,39,1833,carretera de la part de molins de rey,null
+SFLL,40,1833,carretera de la part de molins de rey,null
+SFLL,44,1833,carretera de la part de molins de rey,null
+SFLL,46,1833,carretera de la part de molins de rey,null
+SFLL,47,1833,carretera de la part de molins de rey,null
+SFLL,50,1833,carretera de la part de molins de rey,null
+SFLL,51,1833,carretera de la part de molins de rey,null
+SFLL,52,1833,carretera de la part de molins de rey,null
+SFLL,56,1833,carretera de la part de molins de rey,null
+SFLL,57,1833,carretera de la part de molins de rey,null
+SFLL,58,1833,carretera de la part de molins de rey,null
+SFLL,59,1833,carretera de la part de molins de rey,null
 SFLL,12,1833,carretera de la part de molins de rey,16
 SFLL,565,1839,carretera de la part de molins de rey,16
 SFLL,14,1833,carretera de la part de molins de rey,18
@@ -1556,41 +1557,41 @@ SFLL,551,1839,carretera de la part de molins de rey,3
 SFLL,552,1839,carretera de la part de molins de rey,4
 SFLL,568,1839,carretera de la part de molins de rey,19
 SFLL,570,1839,carretera de la part de molins de rey,23
-SFLL,13,1833,carretera de la part de molins de rey,-1
-SFLL,60,1833,masover nou,-1
-SFLL,61,1833,masover nou,-1
-SFLL,64,1833,masover nou,-1
-SFLL,65,1833,masover nou,-1
-SFLL,66,1833,masover nou,-1
-SFLL,67,1833,masover nou,-1
-SFLL,68,1833,masover nou,-1
-SFLL,72,1833,masover nou,-1
-SFLL,73,1833,masover nou,-1
-SFLL,74,1833,masover nou,-1
-SFLL,75,1833,masover nou,-1
-SFLL,76,1833,masover nou,-1
-SFLL,77,1833,masover nou,-1
-SFLL,78,1833,masover nou,-1
-SFLL,80,1833,masover nou,-1
-SFLL,81,1833,masover nou,-1
-SFLL,82,1833,masover nou,-1
-SFLL,83,1833,masover nou,-1
-SFLL,86,1833,masover nou,-1
-SFLL,88,1833,masover nou,-1
-SFLL,89,1833,masover nou,-1
-SFLL,91,1833,masover nou,-1
-SFLL,93,1833,masover nou,-1
-SFLL,62,1833,masover nou,3
-SFLL,63,1833,masover nou,6
-SFLL,69,1833,masover nou,12
-SFLL,70,1833,masover nou,13
-SFLL,71,1833,masover nou,14
-SFLL,79,1833,masover nou,21
-SFLL,84,1833,masover nou,25
-SFLL,85,1833,masover nou,26
-SFLL,87,1833,masover nou,27
-SFLL,90,1833,masover nou,29
-SFLL,92,1833,masover nou,31
+SFLL,13,1833,carrtera de la part de molins de rey,null
+SFLL,60,1833,masovenou,null
+SFLL,61,1833,masovenou,null
+SFLL,64,1833,masovenou,null
+SFLL,65,1833,masovenou,null
+SFLL,66,1833,masovenou,null
+SFLL,67,1833,masovenou,null
+SFLL,68,1833,masovenou,null
+SFLL,72,1833,masovenou,null
+SFLL,73,1833,masovenou,null
+SFLL,74,1833,masovenou,null
+SFLL,75,1833,masovenou,null
+SFLL,76,1833,masovenou,null
+SFLL,77,1833,masovenou,null
+SFLL,78,1833,masovenou,null
+SFLL,80,1833,masovenou,null
+SFLL,81,1833,masovenou,null
+SFLL,82,1833,masovenou,null
+SFLL,83,1833,masovenou,null
+SFLL,86,1833,masovenou,null
+SFLL,88,1833,masovenou,null
+SFLL,89,1833,masovenou,null
+SFLL,91,1833,masovenou,null
+SFLL,93,1833,masovenou,null
+SFLL,62,1833,masovenou,3
+SFLL,63,1833,masovenou,6
+SFLL,69,1833,masovenou,12
+SFLL,70,1833,masovenou,13
+SFLL,71,1833,masovenou,14
+SFLL,79,1833,masovenou,21
+SFLL,84,1833,masovenou,25
+SFLL,85,1833,masovenou,26
+SFLL,87,1833,masovenou,27
+SFLL,90,1833,masovenou,29
+SFLL,92,1833,masovenou,31
 SFLL,146,1833,creus,1
 SFLL,602,1839,creus,1
 SFLL,357,1881,creus,1
@@ -1604,22 +1605,22 @@ SFLL,156,1833,creus,3
 SFLL,604,1839,creus,3
 SFLL,359,1881,creus,3
 SFLL,344,1889,creus,3
-SFLL,149,1833,creus,-1
-SFLL,151,1833,creus,-1
-SFLL,152,1833,creus,-1
-SFLL,154,1833,creus,-1
-SFLL,155,1833,creus,-1
-SFLL,157,1833,creus,-1
-SFLL,159,1833,creus,-1
-SFLL,161,1833,creus,-1
-SFLL,162,1833,creus,-1
-SFLL,164,1833,creus,-1
-SFLL,165,1833,creus,-1
-SFLL,167,1833,creus,-1
-SFLL,458,1878,creus,-1
-SFLL,459,1878,creus,-1
-SFLL,460,1878,creus,-1
-SFLL,465,1878,creus,-1
+SFLL,149,1833,creus,null
+SFLL,151,1833,creus,null
+SFLL,152,1833,creus,null
+SFLL,154,1833,creus,null
+SFLL,155,1833,creus,null
+SFLL,157,1833,creus,null
+SFLL,159,1833,creus,null
+SFLL,161,1833,creus,null
+SFLL,162,1833,creus,null
+SFLL,164,1833,creus,null
+SFLL,165,1833,creus,null
+SFLL,167,1833,creus,null
+SFLL,458,1878,creus,null
+SFLL,459,1878,creus,null
+SFLL,460,1878,creus,null
+SFLL,465,1878,creus,null
 SFLL,150,1833,creus,9
 SFLL,610,1839,creus,9
 SFLL,467,1878,creus,9
@@ -1782,72 +1783,72 @@ SFLL,404,1881,creus,81
 SFLL,356,1889,creus,29
 SFLL,357,1889,creus,31
 SFLL,368,1889,creus,55
-SFLL,369,1889,creus,-1
+SFLL,369,1889,creus,null
 SFLL,377,1889,creus,71
 SFLL,379,1889,creus,75
 SFLL,386,1889,creus,12
 SFLL,394,1889,creus,28
-SFLL,168,1833,armenteres,1
-SFLL,736,1839,armenteres,1
-SFLL,169,1833,armenteres,-1
-SFLL,170,1833,armenteres,-1
-SFLL,171,1833,armenteres,-1
-SFLL,173,1833,armenteres,-1
-SFLL,174,1833,armenteres,-1
-SFLL,176,1833,armenteres,-1
-SFLL,178,1833,armenteres,-1
-SFLL,180,1833,armenteres,-1
-SFLL,172,1833,armenteres,3
-SFLL,739,1839,armenteres,3
-SFLL,175,1833,armenteres,9
-SFLL,179,1833,armenteres,9
-SFLL,745,1839,armenteres,9
-SFLL,177,1833,armenteres,7
-SFLL,743,1839,armenteres,7
-SFLL,737,1839,armenteres,2
-SFLL,738,1839,armenteres,2
-SFLL,605,1881,armenteres,2
-SFLL,603,1889,armenteres,2
-SFLL,740,1839,armenteres,4
-SFLL,606,1881,armenteres,4
+SFLL,168,1833,armenteras,1
+SFLL,736,1839,armenteras,1
+SFLL,169,1833,armenteras,null
+SFLL,170,1833,armenteras,null
+SFLL,171,1833,armenteras,null
+SFLL,173,1833,armenteras,null
+SFLL,174,1833,armenteras,null
+SFLL,176,1833,armenteras,null
+SFLL,178,1833,armenteras,null
+SFLL,180,1833,armenteras,null
+SFLL,172,1833,armenteras,3
+SFLL,739,1839,armenteras,3
+SFLL,175,1833,armenteras,9
+SFLL,179,1833,armenteras,9
+SFLL,745,1839,armenteras,9
+SFLL,177,1833,armenteras,7
+SFLL,743,1839,armenteras,7
+SFLL,737,1839,armenteras,2
+SFLL,738,1839,armenteras,2
+SFLL,605,1881,armenteras,2
+SFLL,603,1889,armenteras,2
+SFLL,740,1839,armenteras,4
+SFLL,606,1881,armenteras,4
 SFLL,604,1889,armenteres,4
-SFLL,741,1839,armenteres,5
-SFLL,742,1839,armenteres,6
-SFLL,605,1889,armenteres,6
-SFLL,744,1839,armenteres,8
-SFLL,609,1881,armenteres,8
-SFLL,606,1889,armenteres,8
-SFLL,607,1881,armenteres,4
-SFLL,608,1881,armenteres,4
-SFLL,610,1881,armenteres,10
-SFLL,607,1889,armenteres,10
-SFLL,611,1881,armenteres,12
-SFLL,608,1889,armenteres,12
-SFLL,612,1881,armenteres,14
-SFLL,609,1889,armenteres,14
-SFLL,613,1881,armenteres,16
-SFLL,610,1889,armenteres,16
-SFLL,614,1881,armenteres,20
-SFLL,612,1889,armenteres,20
-SFLL,611,1889,armenteres,18
+SFLL,741,1839,armenteras,5
+SFLL,742,1839,armenteras,6
+SFLL,605,1889,armenteras,6
+SFLL,744,1839,armenteras,8
+SFLL,609,1881,armenteras,8
+SFLL,606,1889,armenteras,8
+SFLL,607,1881,armenteras,4
+SFLL,608,1881,armenteras,4
+SFLL,610,1881,armenteras,10
+SFLL,607,1889,armenteras,10
+SFLL,611,1881,armenteras,12
+SFLL,608,1889,armenteras,12
+SFLL,612,1881,armenteras,14
+SFLL,609,1889,armenteras,14
+SFLL,613,1881,armenteras,16
+SFLL,610,1889,armenteras,16
+SFLL,614,1881,armenteras,20
+SFLL,612,1889,armenteras,20
+SFLL,611,1889,armenteras,18
 SFLL,181,1833,baix,1
-SFLL,182,1833,baix,-1
-SFLL,184,1833,baix,-1
-SFLL,186,1833,baix,-1
-SFLL,188,1833,baix,-1
-SFLL,190,1833,baix,-1
-SFLL,192,1833,baix,-1
-SFLL,193,1833,baix,-1
-SFLL,194,1833,baix,-1
-SFLL,197,1833,baix,-1
-SFLL,198,1833,baix,-1
-SFLL,200,1833,baix,-1
-SFLL,204,1833,baix,-1
-SFLL,205,1833,baix,-1
-SFLL,207,1833,baix,-1
-SFLL,208,1833,baix,-1
-SFLL,209,1833,baix,-1
-SFLL,210,1833,baix,-1
+SFLL,182,1833,baix,null
+SFLL,184,1833,baix,null
+SFLL,186,1833,baix,null
+SFLL,188,1833,baix,null
+SFLL,190,1833,baix,null
+SFLL,192,1833,baix,null
+SFLL,193,1833,baix,null
+SFLL,194,1833,baix,null
+SFLL,197,1833,baix,null
+SFLL,198,1833,baix,null
+SFLL,200,1833,baix,null
+SFLL,204,1833,baix,null
+SFLL,205,1833,baix,null
+SFLL,207,1833,baix,null
+SFLL,208,1833,baix,null
+SFLL,209,1833,baix,null
+SFLL,210,1833,baix,null
 SFLL,183,1833,baix,3
 SFLL,185,1833,baix,5
 SFLL,187,1833,baix,2
@@ -1876,10 +1877,10 @@ SFLL,216,1833,dal,6
 SFLL,658,1839,dal,6
 SFLL,217,1833,dal,7
 SFLL,659,1839,dal,7
-SFLL,218,1833,dal,-1
-SFLL,221,1833,dal,-1
-SFLL,230,1833,dal,-1
-SFLL,231,1833,dal,-1
+SFLL,218,1833,dal,null
+SFLL,221,1833,dal,null
+SFLL,230,1833,dal,null
+SFLL,231,1833,dal,null
 SFLL,219,1833,dal,8
 SFLL,660,1839,dal,8
 SFLL,223,1833,dal,10
@@ -1929,14 +1930,14 @@ SFLL,360,1878,falguera,5
 SFLL,361,1878,falguera,5
 SFLL,416,1881,falguera,5
 SFLL,398,1889,falguera,5
-SFLL,248,1833,falguera,-1
-SFLL,249,1833,falguera,-1
-SFLL,253,1833,falguera,-1
-SFLL,258,1833,falguera,-1
-SFLL,260,1833,falguera,-1
-SFLL,261,1833,falguera,-1
-SFLL,380,1878,falguera,-1
-SFLL,388,1878,falguera,-1
+SFLL,248,1833,falguera,null
+SFLL,249,1833,falguera,null
+SFLL,253,1833,falguera,null
+SFLL,258,1833,falguera,null
+SFLL,260,1833,falguera,null
+SFLL,261,1833,falguera,null
+SFLL,380,1878,falguera,null
+SFLL,388,1878,falguera,null
 SFLL,250,1833,falguera,6
 SFLL,362,1878,falguera,6
 SFLL,418,1881,falguera,6
@@ -2088,7 +2089,7 @@ SFLL,669,1878,falguera,58
 SFLL,465,1881,falguera,58
 SFLL,447,1889,falguera,58
 SFLL,417,1878,falguera,60
-SFLL,466,1881,baix,6
+SFLL,466,1881,abajo,6
 SFLL,448,1889,falguera,60
 SFLL,419,1878,falguera,62
 SFLL,467,1881,falguera,62
@@ -2134,15 +2135,15 @@ SFLL,456,1881,falguera,46
 SFLL,461,1881,falguera,51
 SFLL,419,1889,falguera,51
 SFLL,475,1881,falguera,80
-SFLL,395,1889,falguera,-1
-SFLL,396,1889,falguera,-1
-SFLL,407,1889,falguera,-1
+SFLL,395,1889,falguera,null
+SFLL,396,1889,falguera,null
+SFLL,407,1889,falguera,null
 SFLL,410,1889,falguera,29
 SFLL,420,1889,falguera,53
 SFLL,421,1889,falguera,532
 SFLL,422,1889,falguera,534
 SFLL,423,1889,falguera,536
-SFLL,454,1889,falguera,-1
+SFLL,454,1889,falguera,null
 SFLL,272,1833,casas del monmany,1
 SFLL,572,1839,casas del monmany,1
 SFLL,273,1833,casas del monmany,2
@@ -2151,9 +2152,9 @@ SFLL,274,1833,casas del monmany,3
 SFLL,574,1839,casas del monmany,3
 SFLL,275,1833,casas del monmany,4
 SFLL,575,1839,casas del monmany,4
-SFLL,276,1833,casas del monmany,-1
-SFLL,278,1833,casas del monmany,-1
-SFLL,284,1833,casas del monmany,-1
+SFLL,276,1833,casas del monmany,null
+SFLL,278,1833,casas del monmany,null
+SFLL,284,1833,casas del monmany,null
 SFLL,277,1833,casas del monmany,5
 SFLL,576,1839,casas del monmany,5
 SFLL,279,1833,casas del monmany,6
@@ -2183,25 +2184,25 @@ SFLL,588,1839,casas del monmany,17
 SFLL,293,1833,casas del monmany,18
 SFLL,589,1839,casas del monmany,18
 SFLL,294,1833,casas del monmany,19
-SFLL,295,1833,ribas,1
-SFLL,296,1833,ribas,-1
-SFLL,302,1833,ribas,-1
-SFLL,309,1833,ribas,-1
-SFLL,310,1833,ribas,-1
-SFLL,311,1833,ribas,-1
-SFLL,312,1833,ribas,-1
-SFLL,313,1833,ribas,-1
-SFLL,297,1833,ribas,2
-SFLL,298,1833,ribas,3
-SFLL,299,1833,ribas,4
-SFLL,300,1833,ribas,5
-SFLL,301,1833,ribas,6
-SFLL,303,1833,ribas,7
-SFLL,304,1833,ribas,8
-SFLL,305,1833,ribas,9
-SFLL,306,1833,ribas,10
-SFLL,307,1833,ribas,11
-SFLL,308,1833,ribas,12
+SFLL,295,1833,del ribas,1
+SFLL,296,1833,del ribas,null
+SFLL,302,1833,del ribas,null
+SFLL,309,1833,del ribas,null
+SFLL,310,1833,del ribas,null
+SFLL,311,1833,del ribas,null
+SFLL,312,1833,del ribas,null
+SFLL,313,1833,del ribas,null
+SFLL,297,1833,del ribas,2
+SFLL,298,1833,del ribas,3
+SFLL,299,1833,del ribas,4
+SFLL,300,1833,del ribas,5
+SFLL,301,1833,del ribas,6
+SFLL,303,1833,del ribas,7
+SFLL,304,1833,del ribas,8
+SFLL,305,1833,del ribas,9
+SFLL,306,1833,del ribas,10
+SFLL,307,1833,del ribas,11
+SFLL,308,1833,del ribas,12
 SFLL,314,1838,carretera de barna,1
 SFLL,369,1839,carretera de barna,1
 SFLL,315,1838,carretera de barna,2
@@ -2326,7 +2327,7 @@ SFLL,546,1839,plaza,25
 SFLL,547,1839,plaza,26
 SFLL,548,1839,plaza,29
 SFLL,549,1839,plaza,30
-SFLL,584,1839,casas del monmany,13
+SFLL,584,1839,casas del 3onmany,13
 SFLL,590,1839,ribas,1
 SFLL,591,1839,ribas,2
 SFLL,592,1839,ribas,3
@@ -2339,924 +2340,924 @@ SFLL,598,1839,ribas,9
 SFLL,599,1839,ribas,10
 SFLL,600,1839,ribas,11
 SFLL,601,1839,ribas,12
-SFLL,665,1839,null,13
+SFLL,665,1839,d,13
 SFLL,673,1839,casas de campo del carrer de dal,1
 SFLL,674,1839,casas de campo del carrer de dal,2
 SFLL,676,1839,casas de campo del carrer de dal,4
 SFLL,677,1839,casas de campo del carrer de dal,5
 SFLL,678,1839,casas de campo del carrer de dal,6
 SFLL,679,1839,casas de campo del carrer de dal,7
-SFLL,675,1839,casas de campo del carrer de dal,3
-SFLL,680,1839,masover nou,1
-SFLL,681,1839,masover nou,2
-SFLL,682,1839,masover nou,3
-SFLL,683,1839,masover nou,4
-SFLL,684,1839,masover nou,5
-SFLL,685,1839,masover nou,6
-SFLL,686,1839,masover nou,7
-SFLL,687,1839,masover nou,8
-SFLL,688,1839,masover nou,9
-SFLL,689,1839,masover nou,10
-SFLL,690,1839,masover nou,11
-SFLL,691,1839,masover nou,12
-SFLL,692,1839,masover nou,13
-SFLL,693,1839,masover nou,14
-SFLL,694,1839,masover nou,15
-SFLL,695,1839,masover nou,16
-SFLL,696,1839,masover nou,17
-SFLL,697,1839,masover nou,18
-SFLL,698,1839,masover nou,19
-SFLL,699,1839,masover nou,20
-SFLL,700,1839,masover nou,21
-SFLL,701,1839,masover nou,22
-SFLL,702,1839,masover nou,23
-SFLL,703,1839,masover nou,24
-SFLL,704,1839,masover nou,25
-SFLL,705,1839,masover nou,26
-SFLL,706,1839,masover nou,27
-SFLL,707,1839,masover nou,28
-SFLL,708,1839,masover nou,30
-SFLL,709,1839,masover nou,31
-SFLL,710,1839,masover nou,32
-SFLL,711,1839,masover nou,33
-SFLL,712,1839,masover nou,34
-SFLL,713,1839,masover nou,35
-SFLL,714,1839,masover nou,36
-SFLL,715,1839,masover nou,37
-SFLL,716,1839,masover nou,38
-SFLL,717,1839,masover nou,38
-SFLL,718,1839,masover nou,39
-SFLL,719,1839,masover nou,40
-SFLL,720,1839,masover nou,41
-SFLL,324,1878,masover nou,72
-SFLL,325,1878,masover nou,76
-SFLL,326,1878,masover nou,80
-SFLL,327,1878,masover nou,84
-SFLL,328,1878,masover nou,86
-SFLL,329,1878,masover nou,90
-SFLL,330,1878,masover nou,90
-SFLL,331,1878,masover nou,96
-SFLL,332,1878,masover nou,100
-SFLL,333,1878,masover nou,102
-SFLL,334,1878,masover nou,104
-SFLL,335,1878,masover nou,104
-SFLL,336,1878,masover nou,104
-SFLL,337,1878,masover nou,106
-SFLL,338,1878,masover nou,110
-SFLL,339,1878,masover nou,112
-SFLL,340,1878,masover nou,114
-SFLL,341,1878,masover nou,116
-SFLL,342,1878,masover nou,120
-null,1,1857,null,-1
-null,2,1857,null,-1
-null,3,1857,null,-1
-null,4,1857,null,-1
-null,5,1857,null,-1
-null,6,1857,null,-1
-null,7,1857,null,-1
-null,8,1857,null,-1
-null,9,1857,null,-1
-null,10,1857,null,-1
-null,11,1857,null,-1
-null,12,1857,null,-1
-null,13,1857,null,-1
-null,14,1857,null,-1
-null,15,1857,null,-1
-null,16,1857,null,-1
-null,17,1857,null,-1
-null,18,1857,null,-1
-null,19,1857,null,-1
-null,20,1857,null,-1
-null,21,1857,null,-1
-null,22,1857,null,-1
-null,23,1857,null,-1
-null,24,1857,null,-1
-null,25,1857,null,-1
-null,26,1857,null,-1
-null,27,1857,null,-1
-null,28,1857,null,-1
-null,29,1857,null,-1
-null,30,1857,null,-1
-null,31,1857,null,-1
-null,32,1857,null,-1
-null,33,1857,null,-1
-null,34,1857,null,-1
-null,35,1857,null,-1
-null,36,1857,null,-1
-null,37,1857,null,-1
-null,38,1857,null,-1
-null,39,1857,null,-1
-null,40,1857,null,-1
-null,41,1857,null,-1
-null,42,1857,null,-1
-null,43,1857,null,-1
-null,44,1857,null,-1
-null,45,1857,null,-1
-null,46,1857,null,-1
-null,47,1857,null,-1
-null,48,1857,null,-1
-null,49,1857,null,-1
-null,50,1857,null,-1
-null,51,1857,null,-1
-null,52,1857,null,-1
-null,53,1857,null,-1
-null,54,1857,null,-1
-null,55,1857,null,-1
-null,56,1857,null,-1
-null,57,1857,null,-1
-null,58,1857,null,-1
-null,59,1857,null,-1
-null,60,1857,null,-1
-null,61,1857,null,-1
-null,62,1857,null,-1
-null,63,1857,null,-1
-null,64,1857,null,-1
-null,65,1857,null,-1
-null,66,1857,null,-1
-null,67,1857,null,-1
-null,68,1857,null,-1
-null,69,1857,null,-1
-null,70,1857,null,-1
-null,71,1857,null,-1
-null,72,1857,null,-1
-null,73,1857,null,-1
-null,74,1857,null,-1
-null,75,1857,null,-1
-null,76,1857,null,-1
-null,77,1857,null,-1
-null,78,1857,null,-1
-null,79,1857,null,-1
-null,80,1857,null,-1
-null,81,1857,null,-1
-null,82,1857,null,-1
-null,83,1857,null,-1
-null,84,1857,null,-1
-null,85,1857,null,-1
-null,86,1857,null,-1
-null,87,1857,null,-1
-null,88,1857,null,-1
-null,89,1857,null,-1
-null,90,1857,null,-1
-null,91,1857,null,-1
-null,92,1857,null,-1
-null,93,1857,null,-1
-null,94,1857,null,-1
-null,95,1857,null,-1
-null,96,1857,null,-1
-null,97,1857,null,-1
-null,98,1857,null,-1
-null,99,1857,null,-1
-null,100,1857,null,-1
-null,101,1857,null,-1
-null,102,1857,null,-1
-null,103,1857,null,-1
-null,104,1857,null,-1
-null,105,1857,null,-1
-null,106,1857,null,-1
-null,107,1857,null,-1
-null,108,1857,null,-1
-null,109,1857,null,-1
-null,110,1857,null,-1
-null,111,1857,null,-1
-null,112,1857,null,-1
-null,113,1857,null,-1
-null,114,1857,null,-1
-null,115,1857,null,-1
-null,116,1857,null,-1
-null,117,1857,null,-1
-null,118,1857,null,-1
-null,119,1857,null,-1
-null,120,1857,null,-1
-null,121,1857,null,-1
-null,122,1857,null,-1
-null,123,1857,null,-1
-null,124,1857,null,-1
-null,125,1857,null,-1
-null,126,1857,null,-1
-null,127,1857,null,-1
-null,128,1857,null,-1
-null,129,1857,null,-1
-null,130,1857,null,-1
-null,131,1857,null,-1
-null,132,1857,null,-1
-null,133,1857,null,-1
-null,134,1857,null,-1
-null,135,1857,null,-1
-null,136,1857,null,-1
-null,137,1857,null,-1
-null,138,1857,null,-1
-null,139,1857,null,-1
-null,140,1857,null,-1
-null,141,1857,null,-1
-null,142,1857,null,-1
-null,143,1857,null,-1
-null,144,1857,null,-1
-null,145,1857,null,-1
-null,146,1857,null,-1
-null,147,1857,null,-1
-null,148,1857,null,-1
-null,149,1857,null,-1
-null,150,1857,null,-1
-null,151,1857,null,-1
-null,152,1857,null,-1
-null,153,1857,null,-1
-null,154,1857,null,-1
-null,155,1857,null,-1
-null,156,1857,null,-1
-null,157,1857,null,-1
-null,158,1857,null,-1
-null,159,1857,null,-1
-null,160,1857,null,-1
-null,161,1857,null,-1
-null,162,1857,null,-1
-null,163,1857,null,-1
-null,164,1857,null,-1
-null,165,1857,null,-1
-null,166,1857,null,-1
-null,167,1857,null,-1
-null,168,1857,null,-1
-null,169,1857,null,-1
-null,170,1857,null,-1
-null,171,1857,null,-1
-null,172,1857,null,-1
-null,173,1857,null,-1
-null,174,1857,null,-1
-null,175,1857,null,-1
-null,176,1857,null,-1
-null,177,1857,null,-1
-null,178,1857,null,-1
-null,179,1857,null,-1
-null,180,1857,null,-1
-null,181,1857,null,-1
-null,182,1857,null,-1
-null,183,1857,null,-1
-null,184,1857,null,-1
-null,185,1857,null,-1
-null,186,1857,null,-1
-null,187,1857,null,-1
-null,188,1857,null,-1
-null,189,1857,null,-1
-null,190,1857,null,-1
-null,191,1857,null,-1
-null,192,1857,null,-1
-null,193,1857,null,-1
-null,194,1857,null,-1
-null,195,1857,null,-1
-null,196,1857,null,-1
-null,197,1857,null,-1
-null,198,1857,null,-1
-null,199,1857,null,-1
-null,200,1857,null,-1
-null,201,1857,null,-1
-null,202,1857,null,-1
-null,203,1857,null,-1
-null,204,1857,null,-1
-null,205,1857,null,-1
-null,206,1857,null,-1
-null,207,1857,null,-1
-null,208,1857,null,-1
-null,209,1857,null,-1
-null,210,1857,null,-1
-null,211,1857,null,-1
-null,212,1857,null,-1
-null,213,1857,null,-1
-null,214,1857,null,-1
-null,215,1857,null,-1
-null,216,1857,null,-1
-null,217,1857,null,-1
-null,218,1857,null,-1
-null,219,1857,null,-1
-null,220,1857,null,-1
-null,221,1857,null,-1
-null,222,1857,null,-1
-null,223,1857,null,-1
-null,224,1857,null,-1
-null,225,1857,null,-1
-null,226,1857,null,-1
-null,227,1857,null,-1
-null,228,1857,null,-1
-null,229,1857,null,-1
-null,230,1857,null,-1
-null,231,1857,null,-1
-null,232,1857,null,-1
-null,233,1857,null,-1
-null,234,1857,null,-1
-null,235,1857,null,-1
-null,236,1857,null,-1
-null,237,1857,null,-1
-null,238,1857,null,-1
-null,239,1857,null,-1
-null,240,1857,null,-1
-null,241,1857,null,-1
-null,242,1857,null,-1
-null,243,1857,null,-1
-null,244,1857,null,-1
-null,245,1857,null,-1
-null,246,1857,null,-1
-null,247,1857,null,-1
-null,248,1857,null,-1
-null,249,1857,null,-1
-null,250,1857,null,-1
-null,251,1857,null,-1
-null,252,1857,null,-1
-null,253,1857,null,-1
-null,254,1857,null,-1
-null,255,1857,null,-1
-null,256,1857,null,-1
-null,257,1857,null,-1
-null,258,1857,null,-1
-null,259,1857,null,-1
-null,260,1857,null,-1
-null,261,1857,null,-1
-null,262,1857,null,-1
-null,263,1857,null,-1
-null,264,1857,null,-1
-null,265,1857,null,-1
-null,266,1857,null,-1
-null,267,1857,null,-1
-null,268,1857,null,-1
-null,269,1857,null,-1
-null,270,1857,null,-1
-null,271,1857,null,-1
-null,272,1857,null,-1
-null,273,1857,null,-1
-null,274,1857,null,-1
-null,275,1857,null,-1
-null,276,1857,null,-1
-null,277,1857,null,-1
-null,278,1857,null,-1
-null,279,1857,null,-1
-null,280,1857,null,-1
-null,281,1857,null,-1
-null,282,1857,null,-1
-null,283,1857,null,-1
-null,284,1857,null,-1
-null,285,1857,null,-1
-null,286,1857,null,-1
-null,287,1857,null,-1
-null,288,1857,null,-1
-null,289,1857,null,-1
-null,290,1857,null,-1
-null,291,1857,null,-1
-null,292,1857,null,-1
-null,293,1857,null,-1
-null,294,1857,null,-1
-null,295,1857,null,-1
-null,296,1857,null,-1
-null,297,1857,null,-1
-null,298,1857,null,-1
-null,299,1857,null,-1
-null,300,1857,null,-1
-null,301,1857,null,-1
-null,302,1857,null,-1
-null,303,1857,null,-1
-null,304,1857,null,-1
-null,305,1857,null,-1
-null,306,1857,null,-1
-null,307,1857,null,-1
-null,308,1857,null,-1
-null,309,1857,null,-1
-null,310,1857,null,-1
-null,311,1857,null,-1
-null,312,1857,null,-1
-null,313,1857,null,-1
-null,314,1857,null,-1
-null,315,1857,null,-1
-null,316,1857,null,-1
-null,317,1857,null,-1
-null,318,1857,null,-1
-null,319,1857,null,-1
-null,320,1857,null,-1
-null,321,1857,null,-1
-null,322,1857,null,-1
-null,323,1857,null,-1
-null,324,1857,null,-1
-null,325,1857,null,-1
-null,326,1857,null,-1
-null,327,1857,null,-1
-null,328,1857,null,-1
-null,329,1857,null,-1
-null,330,1857,null,-1
-null,331,1857,null,-1
-null,332,1857,null,-1
-null,333,1857,null,-1
-null,334,1857,null,-1
-null,335,1857,null,-1
-null,336,1857,null,-1
-null,337,1857,null,-1
-null,338,1857,null,-1
-null,339,1857,null,-1
-null,340,1857,null,-1
-null,341,1857,null,-1
-null,342,1857,null,-1
-null,343,1857,null,-1
-null,344,1857,null,-1
-null,345,1857,null,-1
-null,346,1857,null,-1
-null,347,1857,null,-1
-null,348,1857,null,-1
-null,349,1857,null,-1
-null,350,1857,null,-1
-null,351,1857,null,-1
-null,352,1857,null,-1
-null,353,1857,null,-1
-null,354,1857,null,-1
-null,355,1857,null,-1
-null,356,1857,null,-1
-null,357,1857,null,-1
-null,358,1857,null,-1
-null,359,1857,null,-1
-null,360,1857,null,-1
-null,361,1857,null,-1
-null,362,1857,null,-1
-null,363,1857,null,-1
-null,364,1857,null,-1
-null,365,1857,null,-1
-null,366,1857,null,-1
-null,367,1857,null,-1
-null,368,1857,null,-1
-null,369,1857,null,-1
-null,370,1857,null,-1
-null,371,1857,null,-1
-null,372,1857,null,-1
-null,373,1857,null,-1
-null,374,1857,null,-1
-null,375,1857,null,-1
-null,376,1857,null,-1
-null,377,1857,null,-1
-null,378,1857,null,-1
-null,379,1857,null,-1
-null,380,1857,null,-1
-null,381,1857,null,-1
-null,382,1857,null,-1
-null,383,1857,null,-1
-null,384,1857,null,-1
-null,385,1857,null,-1
-null,386,1857,null,-1
-null,387,1857,null,-1
-null,388,1857,null,-1
-null,389,1857,null,-1
-null,390,1857,null,-1
-null,391,1857,null,-1
-null,392,1857,null,-1
-null,393,1857,null,-1
-null,394,1857,null,-1
-null,395,1857,null,-1
-null,396,1857,null,-1
-null,397,1857,null,-1
-null,398,1857,null,-1
-null,399,1857,null,-1
-null,400,1857,null,-1
-null,401,1857,null,-1
-null,402,1857,null,-1
-null,403,1857,null,-1
-null,404,1857,null,-1
-null,405,1857,null,-1
-null,406,1857,null,-1
-null,407,1857,null,-1
-null,408,1857,null,-1
-null,409,1857,null,-1
-null,410,1857,null,-1
-null,411,1857,null,-1
-null,412,1857,null,-1
-null,413,1857,null,-1
-null,414,1857,null,-1
-null,415,1857,null,-1
-null,416,1857,null,-1
-null,417,1857,null,-1
-null,418,1857,null,-1
-null,419,1857,null,-1
-null,420,1857,null,-1
-null,421,1857,null,-1
-null,422,1857,null,-1
-null,423,1857,null,-1
-null,424,1857,null,-1
-null,425,1857,null,-1
-null,426,1857,null,-1
-null,427,1857,null,-1
-null,428,1857,null,-1
-null,429,1857,null,-1
-null,430,1857,null,-1
-null,431,1857,null,-1
-null,432,1857,null,-1
-null,433,1857,null,-1
-null,434,1857,null,-1
-null,435,1857,null,-1
-null,436,1857,null,-1
-null,437,1857,null,-1
-null,438,1857,null,-1
-null,439,1857,null,-1
-null,440,1857,null,-1
-null,441,1857,null,-1
-null,442,1857,null,-1
-null,443,1857,null,-1
-null,444,1857,null,-1
-null,445,1857,null,-1
-null,446,1857,null,-1
-null,447,1857,null,-1
-null,448,1857,null,-1
-null,449,1857,null,-1
-null,450,1857,null,-1
-null,451,1857,null,-1
-null,452,1857,null,-1
-null,453,1857,null,-1
-null,454,1857,null,-1
-null,455,1857,null,-1
-null,456,1857,null,-1
-null,457,1857,null,-1
-null,458,1857,null,-1
-null,459,1857,null,-1
-null,460,1857,null,-1
-null,461,1857,null,-1
-null,462,1857,null,-1
-null,463,1857,null,-1
-null,464,1857,null,-1
-null,465,1857,null,-1
-null,466,1857,null,-1
-null,467,1857,null,-1
-null,468,1857,null,-1
-null,469,1857,null,-1
-null,470,1857,null,-1
-null,471,1857,null,-1
-null,472,1857,null,-1
-null,473,1857,null,-1
-null,474,1857,null,-1
-null,475,1857,null,-1
-null,476,1857,null,-1
-null,477,1857,null,-1
-null,478,1857,null,-1
-null,479,1857,null,-1
-null,480,1857,null,-1
-null,481,1857,null,-1
-null,482,1857,null,-1
-null,483,1857,null,-1
-null,484,1857,null,-1
-null,485,1857,null,-1
-null,486,1857,null,-1
-null,487,1857,null,-1
-null,488,1857,null,-1
-null,489,1857,null,-1
-null,490,1857,null,-1
-null,491,1857,null,-1
-null,492,1857,null,-1
-null,493,1857,null,-1
-null,494,1857,null,-1
-null,495,1857,null,-1
-null,496,1857,null,-1
-null,497,1857,null,-1
-null,498,1857,null,-1
-null,499,1857,null,-1
-null,500,1857,null,-1
-null,501,1857,null,-1
-null,502,1857,null,-1
-null,503,1857,null,-1
-null,504,1857,null,-1
-null,505,1857,null,-1
-null,506,1857,null,-1
-null,507,1857,null,-1
-null,508,1857,null,-1
-null,509,1857,null,-1
-null,510,1857,null,-1
-null,511,1857,null,-1
-null,512,1857,null,-1
-null,513,1857,null,-1
-null,514,1857,null,-1
-null,515,1857,null,-1
-null,516,1857,null,-1
-null,517,1857,null,-1
-null,518,1857,null,-1
-null,519,1857,null,-1
-null,520,1857,null,-1
-null,521,1857,null,-1
-null,522,1857,null,-1
-null,523,1857,null,-1
-null,524,1857,null,-1
-null,525,1857,null,-1
-null,526,1857,null,-1
-null,527,1857,null,-1
-null,528,1857,null,-1
-null,529,1857,null,-1
-null,530,1857,null,-1
-null,531,1857,null,-1
-null,532,1857,null,-1
-null,533,1857,null,-1
-SFLL,9,1878,carretera,4
-SFLL,10,1878,carretera,4
-SFLL,11,1878,carretera,-1
-SFLL,12,1878,carretera,-1
-SFLL,17,1878,carretera,11
-SFLL,144,1878,carretera,-1
-SFLL,145,1878,carretera,-1
-SFLL,147,1878,carretera,-1
-SFLL,148,1878,carretera,-1
-SFLL,13,1878,carretera,6
-SFLL,14,1878,carretera,6
-SFLL,15,1878,carretera,9
-SFLL,16,1878,carretera,9
-SFLL,18,1878,carretera,13
-SFLL,19,1878,carretera,15
-SFLL,20,1878,carretera,16
-SFLL,21,1878,carretera,17
-SFLL,22,1878,carretera,18
-SFLL,23,1878,carretera,20
-SFLL,28,1878,carretera,22
-SFLL,29,1878,carretera,24
-SFLL,30,1878,carretera,24
-SFLL,31,1878,carretera,26
-SFLL,32,1878,carretera,27
-SFLL,56,1878,carretera,49
-SFLL,57,1878,carretera,50
-SFLL,58,1878,carretera,52
-SFLL,59,1878,carretera,52
-SFLL,60,1878,carretera,53
-SFLL,71,1878,carretera,60
-SFLL,72,1878,carretera,61
-SFLL,73,1878,carretera,61
-SFLL,74,1878,carretera,63
-SFLL,75,1878,carretera,64
-SFLL,83,1878,carretera,70
-SFLL,84,1878,carretera,71
-SFLL,85,1878,carretera,73
-SFLL,86,1878,carretera,75
-SFLL,87,1878,carretera,77
-SFLL,88,1878,carretera,78
-SFLL,89,1878,carretera,79
-SFLL,90,1878,carretera,79
-SFLL,91,1878,carretera,80
-SFLL,92,1878,carretera,81
-SFLL,93,1878,carretera,81
-SFLL,94,1878,carretera,81
-SFLL,95,1878,carretera,81
-SFLL,96,1878,carretera,81
-SFLL,97,1878,carretera,82
-SFLL,98,1878,carretera,83
-SFLL,99,1878,carretera,84
-SFLL,100,1878,carretera,86
-SFLL,101,1878,carretera,86
-SFLL,102,1878,carretera,86
-SFLL,103,1878,carretera,88
-SFLL,104,1878,carretera,90
-SFLL,105,1878,carretera,92
-SFLL,106,1878,carretera,93
-SFLL,107,1878,carretera,94
-SFLL,108,1878,carretera,95
-SFLL,121,1878,carretera,103
-SFLL,122,1878,carretera,105
-SFLL,123,1878,carretera,107
-SFLL,124,1878,carretera,107
-SFLL,125,1878,carretera,108
-SFLL,126,1878,carretera,109
-SFLL,127,1878,carretera,110
-SFLL,128,1878,carretera,111
-SFLL,130,1878,carretera,113
-SFLL,131,1878,carretera,114
-SFLL,137,1878,carretera,119
-SFLL,138,1878,carretera,120
-SFLL,139,1878,carretera,120
-SFLL,140,1878,carretera,121
-SFLL,141,1878,carretera,122
-SFLL,142,1878,carretera,123
-SFLL,143,1878,carretera,124
-SFLL,146,1878,carretera,19
-SFLL,149,1878,carretera,125
-SFLL,236,1878,carretera,206
-SFLL,237,1878,carretera,208
-SFLL,238,1878,carretera,210
-SFLL,243,1878,carretera,216
-SFLL,244,1878,carretera,218
-SFLL,245,1878,carretera,220
-SFLL,246,1878,carretera,224
-SFLL,247,1878,carretera,224
-SFLL,248,1878,carretera,226
-SFLL,249,1878,carretera,230
-SFLL,250,1878,carretera,230
-SFLL,251,1878,carretera,232
-SFLL,252,1878,carretera,234
-SFLL,253,1878,carretera,236
-SFLL,254,1878,carretera,238
-SFLL,255,1878,carretera,240
-SFLL,256,1878,carretera,242
-SFLL,259,1878,carretera,242
-SFLL,257,1878,carretera,244
-SFLL,260,1878,carretera,244
-SFLL,261,1878,carretera,244
-SFLL,262,1878,carretera,31
-SFLL,263,1878,carretera,104
-SFLL,68,1878,carretera,58
-SFLL,265,1878,masover nou,1
-SFLL,281,1881,masover nou,1
-SFLL,266,1878,masover nou,2
-SFLL,282,1881,masover nou,2
-SFLL,280,1889,masover nou,2
-SFLL,267,1878,masover nou,4
-SFLL,284,1881,masover nou,4
-SFLL,281,1889,masover nou,4
-SFLL,268,1878,masover nou,5
-SFLL,285,1881,masover nou,5
-SFLL,269,1878,masover nou,6
-SFLL,286,1881,masover nou,6
-SFLL,282,1889,masover nou,6
-SFLL,270,1878,masover nou,7
-SFLL,271,1878,masover nou,7
-SFLL,287,1881,masover nou,7
-SFLL,272,1878,masover nou,8
-SFLL,288,1881,masover nou,8
-SFLL,273,1878,masover nou,9
-SFLL,289,1881,masover nou,9
-SFLL,274,1878,masover nou,11
-SFLL,275,1878,masover nou,11
-SFLL,276,1878,masover nou,12
-SFLL,290,1881,masover nou,12
-SFLL,284,1889,masover nou,12
-SFLL,277,1878,masover nou,13
-SFLL,278,1878,masover nou,13
-SFLL,291,1881,masover nou,13
-SFLL,279,1878,masover nou,14
-SFLL,665,1878,masover nou,14
-SFLL,292,1881,masover nou,14
-SFLL,285,1889,masover nou,14
-SFLL,280,1878,masover nou,15
-SFLL,293,1881,masover nou,15
-SFLL,281,1878,masover nou,16
-SFLL,294,1881,masover nou,16
-SFLL,286,1889,masover nou,16
-SFLL,282,1878,masover nou,17
-SFLL,295,1881,masover nou,17
-SFLL,283,1878,masover nou,18
-SFLL,666,1878,masover nou,18
-SFLL,296,1881,masover nou,18
-SFLL,287,1889,masover nou,18
-SFLL,284,1878,masover nou,19
-SFLL,297,1881,masover nou,19
-SFLL,285,1878,masover nou,20
-SFLL,288,1889,masover nou,20
-SFLL,286,1878,masover nou,21
-SFLL,299,1881,masover nou,21
-SFLL,287,1878,masover nou,22
-SFLL,300,1881,masover nou,22
-SFLL,289,1889,masover nou,22
-SFLL,288,1878,masover nou,23
-SFLL,301,1881,masover nou,23
-SFLL,289,1878,masover nou,25
-SFLL,303,1881,masover nou,25
-SFLL,290,1878,masover nou,26
-SFLL,304,1881,masover nou,26
-SFLL,291,1889,masover nou,26
-SFLL,291,1878,masover nou,27
-SFLL,305,1881,masover nou,27
-SFLL,292,1878,masover nou,29
-SFLL,294,1878,masover nou,30
-SFLL,293,1878,masover nou,30
-SFLL,307,1881,masover nou,30
-SFLL,293,1889,masover nou,30
-SFLL,295,1878,masover nou,31
-SFLL,308,1881,masover nou,31
-SFLL,296,1878,masover nou,32
-SFLL,297,1878,masover nou,32
-SFLL,309,1881,masover nou,32
-SFLL,294,1889,masover nou,32
-SFLL,298,1878,masover nou,33
-SFLL,311,1881,masover nou,33
-SFLL,299,1878,masover nou,34
-SFLL,312,1881,masover nou,34
-SFLL,295,1889,masover nou,34
-SFLL,300,1878,masover nou,35
-SFLL,313,1881,masover nou,35
-SFLL,301,1878,masover nou,40
-SFLL,302,1878,masover nou,40
-SFLL,303,1878,masover nou,40
-SFLL,314,1881,masover nou,40
-SFLL,299,1889,masover nou,40
-SFLL,304,1878,masover nou,42
-SFLL,315,1881,masover nou,42
-SFLL,300,1889,masover nou,42
-SFLL,305,1878,masover nou,44
-SFLL,306,1878,masover nou,44
-SFLL,317,1881,masover nou,44
-SFLL,301,1889,masover nou,44
-SFLL,307,1878,masover nou,46
-SFLL,302,1889,masover nou,46
-SFLL,308,1878,masover nou,48
-SFLL,310,1878,masover nou,48
-SFLL,309,1878,masover nou,48
-SFLL,318,1881,masover nou,48
-SFLL,303,1889,masover nou,48
-SFLL,311,1878,masover nou,52
-SFLL,320,1881,masover nou,52
-SFLL,305,1889,masover nou,52
-SFLL,312,1878,masover nou,54
-SFLL,313,1878,masover nou,54
-SFLL,321,1881,masover nou,54
-SFLL,306,1889,masover nou,54
-SFLL,314,1878,masover nou,56
-SFLL,322,1881,masover nou,56
-SFLL,307,1889,masover nou,56
-SFLL,315,1878,masover nou,58
-SFLL,316,1878,masover nou,58
-SFLL,323,1881,masover nou,58
-SFLL,308,1889,masover nou,58
-SFLL,317,1878,masover nou,60
-SFLL,324,1881,masover nou,60
-SFLL,318,1878,masover nou,64
-SFLL,325,1881,masover nou,64
-SFLL,310,1889,masover nou,64
-SFLL,319,1878,masover nou,66
-SFLL,326,1881,masover nou,66
-SFLL,311,1889,masover nou,66
-SFLL,320,1878,masover nou,68
-SFLL,327,1881,masover nou,68
-SFLL,312,1889,masover nou,68
-SFLL,321,1878,masover nou,70
-SFLL,328,1881,masover nou,70
-SFLL,313,1889,masover nou,70
-SFLL,322,1878,masover nou,72
-SFLL,329,1881,masover nou,72
-SFLL,314,1889,masover nou,72
-SFLL,323,1878,masover nou,74
-SFLL,330,1881,masover nou,74
-SFLL,315,1889,masover nou,74
-SFLL,283,1881,masover nou,3
-SFLL,302,1881,masover nou,24
-SFLL,290,1889,masover nou,24
-SFLL,306,1881,masover nou,28
-SFLL,292,1889,masover nou,28
-SFLL,310,1881,masover nou,32
-SFLL,316,1881,masover nou,42
-SFLL,319,1881,masover nou,50
-SFLL,304,1889,masover nou,50
-SFLL,331,1881,masover nou,78
-SFLL,317,1889,masover nou,78
-SFLL,332,1881,masover nou,80
-SFLL,318,1889,masover nou,80
-SFLL,333,1881,masover nou,82
-SFLL,319,1889,masover nou,82
-SFLL,334,1881,masover nou,84
-SFLL,320,1889,masover nou,84
-SFLL,335,1881,masover nou,86
-SFLL,321,1889,masover nou,86
-SFLL,336,1881,masover nou,88
-SFLL,322,1889,masover nou,88
-SFLL,337,1881,masover nou,90
-SFLL,323,1889,masover nou,90
-SFLL,338,1881,masover nou,92
-SFLL,324,1889,masover nou,92
-SFLL,339,1881,masover nou,94
-SFLL,325,1889,masover nou,94
-SFLL,340,1881,masover nou,94
-SFLL,341,1881,masover nou,96
-SFLL,326,1889,masover nou,96
-SFLL,342,1881,masover nou,98
-SFLL,328,1889,masover nou,98
-SFLL,343,1881,masover nou,100
-SFLL,329,1889,masover nou,100
-SFLL,344,1881,masover nou,102
-SFLL,330,1889,masover nou,102
-SFLL,345,1881,masover nou,104
-SFLL,331,1889,masover nou,104
-SFLL,346,1881,masover nou,108
-SFLL,637,1881,masover nou,108
-SFLL,333,1889,masover nou,108
-SFLL,347,1881,masover nou,110
-SFLL,334,1889,masover nou,110
-SFLL,348,1881,masover nou,112
-SFLL,335,1889,masover nou,112
-SFLL,349,1881,masover nou,114
-SFLL,336,1889,masover nou,114
-SFLL,350,1881,masover nou,118
-SFLL,338,1889,masover nou,118
-SFLL,351,1881,masover nou,120
-SFLL,339,1889,masover nou,120
-SFLL,352,1881,masover nou,122
-SFLL,340,1889,masover nou,122
-SFLL,353,1881,masover nou,124
-SFLL,341,1889,masover nou,124
-SFLL,354,1881,masover nou,126
-SFLL,342,1889,masover nou,126
-SFLL,355,1881,masover nou,127
-SFLL,356,1881,masover nou,128
+SFLL,675,1839,casas de camp del carrer de dal,3
+SFLL,680,1839,masove nou,1
+SFLL,681,1839,masove nou,2
+SFLL,682,1839,masove nou,3
+SFLL,683,1839,masove nou,4
+SFLL,684,1839,masove nou,5
+SFLL,685,1839,masove nou,6
+SFLL,686,1839,masove nou,7
+SFLL,687,1839,masove nou,8
+SFLL,688,1839,masove nou,9
+SFLL,689,1839,masove nou,10
+SFLL,690,1839,masove nou,11
+SFLL,691,1839,masove nou,12
+SFLL,692,1839,masove nou,13
+SFLL,693,1839,masove nou,14
+SFLL,694,1839,masove nou,15
+SFLL,695,1839,masove nou,16
+SFLL,696,1839,masove nou,17
+SFLL,697,1839,masove nou,18
+SFLL,698,1839,masove nou,19
+SFLL,699,1839,masove nou,20
+SFLL,700,1839,masove nou,21
+SFLL,701,1839,masove nou,22
+SFLL,702,1839,masove nou,23
+SFLL,703,1839,masove nou,24
+SFLL,704,1839,masove nou,25
+SFLL,705,1839,masove nou,26
+SFLL,706,1839,masove nou,27
+SFLL,707,1839,masove nou,28
+SFLL,708,1839,masove nou,30
+SFLL,709,1839,masove nou,31
+SFLL,710,1839,masove nou,32
+SFLL,711,1839,masove nou,33
+SFLL,712,1839,masove nou,34
+SFLL,713,1839,masove nou,35
+SFLL,714,1839,masove nou,36
+SFLL,715,1839,masove nou,37
+SFLL,716,1839,masove nou,38
+SFLL,717,1839,masove nou,38
+SFLL,718,1839,masove nou,39
+SFLL,719,1839,masove nou,40
+SFLL,720,1839,masove nou,41
+SFLL,324,1878,masove nou,72
+SFLL,325,1878,masove nou,76
+SFLL,326,1878,masove nou,80
+SFLL,327,1878,masove nou,84
+SFLL,328,1878,masove nou,86
+SFLL,329,1878,masove nou,90
+SFLL,330,1878,masove nou,90
+SFLL,331,1878,masove nou,96
+SFLL,332,1878,masove nou,100
+SFLL,333,1878,masove nou,102
+SFLL,334,1878,masove nou,104
+SFLL,335,1878,masove nou,104
+SFLL,336,1878,masove nou,104
+SFLL,337,1878,masove nou,106
+SFLL,338,1878,masove nou,110
+SFLL,339,1878,masove nou,112
+SFLL,340,1878,masove nou,114
+SFLL,341,1878,masove nou,116
+SFLL,342,1878,masove nou,120
+null,1,1857,null,null
+null,2,1857,null,null
+null,3,1857,null,null
+null,4,1857,null,null
+null,5,1857,null,null
+null,6,1857,null,null
+null,7,1857,null,null
+null,8,1857,null,null
+null,9,1857,null,null
+null,10,1857,null,null
+null,11,1857,null,null
+null,12,1857,null,null
+null,13,1857,null,null
+null,14,1857,null,null
+null,15,1857,null,null
+null,16,1857,null,null
+null,17,1857,null,null
+null,18,1857,null,null
+null,19,1857,null,null
+null,20,1857,null,null
+null,21,1857,null,null
+null,22,1857,null,null
+null,23,1857,null,null
+null,24,1857,null,null
+null,25,1857,null,null
+null,26,1857,null,null
+null,27,1857,null,null
+null,28,1857,null,null
+null,29,1857,null,null
+null,30,1857,null,null
+null,31,1857,null,null
+null,32,1857,null,null
+null,33,1857,null,null
+null,34,1857,null,null
+null,35,1857,null,null
+null,36,1857,null,null
+null,37,1857,null,null
+null,38,1857,null,null
+null,39,1857,null,null
+null,40,1857,null,null
+null,41,1857,null,null
+null,42,1857,null,null
+null,43,1857,null,null
+null,44,1857,null,null
+null,45,1857,null,null
+null,46,1857,null,null
+null,47,1857,null,null
+null,48,1857,null,null
+null,49,1857,null,null
+null,50,1857,null,null
+null,51,1857,null,null
+null,52,1857,null,null
+null,53,1857,null,null
+null,54,1857,null,null
+null,55,1857,null,null
+null,56,1857,null,null
+null,57,1857,null,null
+null,58,1857,null,null
+null,59,1857,null,null
+null,60,1857,null,null
+null,61,1857,null,null
+null,62,1857,null,null
+null,63,1857,null,null
+null,64,1857,null,null
+null,65,1857,null,null
+null,66,1857,null,null
+null,67,1857,null,null
+null,68,1857,null,null
+null,69,1857,null,null
+null,70,1857,null,null
+null,71,1857,null,null
+null,72,1857,null,null
+null,73,1857,null,null
+null,74,1857,null,null
+null,75,1857,null,null
+null,76,1857,null,null
+null,77,1857,null,null
+null,78,1857,null,null
+null,79,1857,null,null
+null,80,1857,null,null
+null,81,1857,null,null
+null,82,1857,null,null
+null,83,1857,null,null
+null,84,1857,null,null
+null,85,1857,null,null
+null,86,1857,null,null
+null,87,1857,null,null
+null,88,1857,null,null
+null,89,1857,null,null
+null,90,1857,null,null
+null,91,1857,null,null
+null,92,1857,null,null
+null,93,1857,null,null
+null,94,1857,null,null
+null,95,1857,null,null
+null,96,1857,null,null
+null,97,1857,null,null
+null,98,1857,null,null
+null,99,1857,null,null
+null,100,1857,null,null
+null,101,1857,null,null
+null,102,1857,null,null
+null,103,1857,null,null
+null,104,1857,null,null
+null,105,1857,null,null
+null,106,1857,null,null
+null,107,1857,null,null
+null,108,1857,null,null
+null,109,1857,null,null
+null,110,1857,null,null
+null,111,1857,null,null
+null,112,1857,null,null
+null,113,1857,null,null
+null,114,1857,null,null
+null,115,1857,null,null
+null,116,1857,null,null
+null,117,1857,null,null
+null,118,1857,null,null
+null,119,1857,null,null
+null,120,1857,null,null
+null,121,1857,null,null
+null,122,1857,null,null
+null,123,1857,null,null
+null,124,1857,null,null
+null,125,1857,null,null
+null,126,1857,null,null
+null,127,1857,null,null
+null,128,1857,null,null
+null,129,1857,null,null
+null,130,1857,null,null
+null,131,1857,null,null
+null,132,1857,null,null
+null,133,1857,null,null
+null,134,1857,null,null
+null,135,1857,null,null
+null,136,1857,null,null
+null,137,1857,null,null
+null,138,1857,null,null
+null,139,1857,null,null
+null,140,1857,null,null
+null,141,1857,null,null
+null,142,1857,null,null
+null,143,1857,null,null
+null,144,1857,null,null
+null,145,1857,null,null
+null,146,1857,null,null
+null,147,1857,null,null
+null,148,1857,null,null
+null,149,1857,null,null
+null,150,1857,null,null
+null,151,1857,null,null
+null,152,1857,null,null
+null,153,1857,null,null
+null,154,1857,null,null
+null,155,1857,null,null
+null,156,1857,null,null
+null,157,1857,null,null
+null,158,1857,null,null
+null,159,1857,null,null
+null,160,1857,null,null
+null,161,1857,null,null
+null,162,1857,null,null
+null,163,1857,null,null
+null,164,1857,null,null
+null,165,1857,null,null
+null,166,1857,null,null
+null,167,1857,null,null
+null,168,1857,null,null
+null,169,1857,null,null
+null,170,1857,null,null
+null,171,1857,null,null
+null,172,1857,null,null
+null,173,1857,null,null
+null,174,1857,null,null
+null,175,1857,null,null
+null,176,1857,null,null
+null,177,1857,null,null
+null,178,1857,null,null
+null,179,1857,null,null
+null,180,1857,null,null
+null,181,1857,null,null
+null,182,1857,null,null
+null,183,1857,null,null
+null,184,1857,null,null
+null,185,1857,null,null
+null,186,1857,null,null
+null,187,1857,null,null
+null,188,1857,null,null
+null,189,1857,null,null
+null,190,1857,null,null
+null,191,1857,null,null
+null,192,1857,null,null
+null,193,1857,null,null
+null,194,1857,null,null
+null,195,1857,null,null
+null,196,1857,null,null
+null,197,1857,null,null
+null,198,1857,null,null
+null,199,1857,null,null
+null,200,1857,null,null
+null,201,1857,null,null
+null,202,1857,null,null
+null,203,1857,null,null
+null,204,1857,null,null
+null,205,1857,null,null
+null,206,1857,null,null
+null,207,1857,null,null
+null,208,1857,null,null
+null,209,1857,null,null
+null,210,1857,null,null
+null,211,1857,null,null
+null,212,1857,null,null
+null,213,1857,null,null
+null,214,1857,null,null
+null,215,1857,null,null
+null,216,1857,null,null
+null,217,1857,null,null
+null,218,1857,null,null
+null,219,1857,null,null
+null,220,1857,null,null
+null,221,1857,null,null
+null,222,1857,null,null
+null,223,1857,null,null
+null,224,1857,null,null
+null,225,1857,null,null
+null,226,1857,null,null
+null,227,1857,null,null
+null,228,1857,null,null
+null,229,1857,null,null
+null,230,1857,null,null
+null,231,1857,null,null
+null,232,1857,null,null
+null,233,1857,null,null
+null,234,1857,null,null
+null,235,1857,null,null
+null,236,1857,null,null
+null,237,1857,null,null
+null,238,1857,null,null
+null,239,1857,null,null
+null,240,1857,null,null
+null,241,1857,null,null
+null,242,1857,null,null
+null,243,1857,null,null
+null,244,1857,null,null
+null,245,1857,null,null
+null,246,1857,null,null
+null,247,1857,null,null
+null,248,1857,null,null
+null,249,1857,null,null
+null,250,1857,null,null
+null,251,1857,null,null
+null,252,1857,null,null
+null,253,1857,null,null
+null,254,1857,null,null
+null,255,1857,null,null
+null,256,1857,null,null
+null,257,1857,null,null
+null,258,1857,null,null
+null,259,1857,null,null
+null,260,1857,null,null
+null,261,1857,null,null
+null,262,1857,null,null
+null,263,1857,null,null
+null,264,1857,null,null
+null,265,1857,null,null
+null,266,1857,null,null
+null,267,1857,null,null
+null,268,1857,null,null
+null,269,1857,null,null
+null,270,1857,null,null
+null,271,1857,null,null
+null,272,1857,null,null
+null,273,1857,null,null
+null,274,1857,null,null
+null,275,1857,null,null
+null,276,1857,null,null
+null,277,1857,null,null
+null,278,1857,null,null
+null,279,1857,null,null
+null,280,1857,null,null
+null,281,1857,null,null
+null,282,1857,null,null
+null,283,1857,null,null
+null,284,1857,null,null
+null,285,1857,null,null
+null,286,1857,null,null
+null,287,1857,null,null
+null,288,1857,null,null
+null,289,1857,null,null
+null,290,1857,null,null
+null,291,1857,null,null
+null,292,1857,null,null
+null,293,1857,null,null
+null,294,1857,null,null
+null,295,1857,null,null
+null,296,1857,null,null
+null,297,1857,null,null
+null,298,1857,null,null
+null,299,1857,null,null
+null,300,1857,null,null
+null,301,1857,null,null
+null,302,1857,null,null
+null,303,1857,null,null
+null,304,1857,null,null
+null,305,1857,null,null
+null,306,1857,null,null
+null,307,1857,null,null
+null,308,1857,null,null
+null,309,1857,null,null
+null,310,1857,null,null
+null,311,1857,null,null
+null,312,1857,null,null
+null,313,1857,null,null
+null,314,1857,null,null
+null,315,1857,null,null
+null,316,1857,null,null
+null,317,1857,null,null
+null,318,1857,null,null
+null,319,1857,null,null
+null,320,1857,null,null
+null,321,1857,null,null
+null,322,1857,null,null
+null,323,1857,null,null
+null,324,1857,null,null
+null,325,1857,null,null
+null,326,1857,null,null
+null,327,1857,null,null
+null,328,1857,null,null
+null,329,1857,null,null
+null,330,1857,null,null
+null,331,1857,null,null
+null,332,1857,null,null
+null,333,1857,null,null
+null,334,1857,null,null
+null,335,1857,null,null
+null,336,1857,null,null
+null,337,1857,null,null
+null,338,1857,null,null
+null,339,1857,null,null
+null,340,1857,null,null
+null,341,1857,null,null
+null,342,1857,null,null
+null,343,1857,null,null
+null,344,1857,null,null
+null,345,1857,null,null
+null,346,1857,null,null
+null,347,1857,null,null
+null,348,1857,null,null
+null,349,1857,null,null
+null,350,1857,null,null
+null,351,1857,null,null
+null,352,1857,null,null
+null,353,1857,null,null
+null,354,1857,null,null
+null,355,1857,null,null
+null,356,1857,null,null
+null,357,1857,null,null
+null,358,1857,null,null
+null,359,1857,null,null
+null,360,1857,null,null
+null,361,1857,null,null
+null,362,1857,null,null
+null,363,1857,null,null
+null,364,1857,null,null
+null,365,1857,null,null
+null,366,1857,null,null
+null,367,1857,null,null
+null,368,1857,null,null
+null,369,1857,null,null
+null,370,1857,null,null
+null,371,1857,null,null
+null,372,1857,null,null
+null,373,1857,null,null
+null,374,1857,null,null
+null,375,1857,null,null
+null,376,1857,null,null
+null,377,1857,null,null
+null,378,1857,null,null
+null,379,1857,null,null
+null,380,1857,null,null
+null,381,1857,null,null
+null,382,1857,null,null
+null,383,1857,null,null
+null,384,1857,null,null
+null,385,1857,null,null
+null,386,1857,null,null
+null,387,1857,null,null
+null,388,1857,null,null
+null,389,1857,null,null
+null,390,1857,null,null
+null,391,1857,null,null
+null,392,1857,null,null
+null,393,1857,null,null
+null,394,1857,null,null
+null,395,1857,null,null
+null,396,1857,null,null
+null,397,1857,null,null
+null,398,1857,null,null
+null,399,1857,null,null
+null,400,1857,null,null
+null,401,1857,null,null
+null,402,1857,null,null
+null,403,1857,null,null
+null,404,1857,null,null
+null,405,1857,null,null
+null,406,1857,null,null
+null,407,1857,null,null
+null,408,1857,null,null
+null,409,1857,null,null
+null,410,1857,null,null
+null,411,1857,null,null
+null,412,1857,null,null
+null,413,1857,null,null
+null,414,1857,null,null
+null,415,1857,null,null
+null,416,1857,null,null
+null,417,1857,null,null
+null,418,1857,null,null
+null,419,1857,null,null
+null,420,1857,null,null
+null,421,1857,null,null
+null,422,1857,null,null
+null,423,1857,null,null
+null,424,1857,null,null
+null,425,1857,null,null
+null,426,1857,null,null
+null,427,1857,null,null
+null,428,1857,null,null
+null,429,1857,null,null
+null,430,1857,null,null
+null,431,1857,null,null
+null,432,1857,null,null
+null,433,1857,null,null
+null,434,1857,null,null
+null,435,1857,null,null
+null,436,1857,null,null
+null,437,1857,null,null
+null,438,1857,null,null
+null,439,1857,null,null
+null,440,1857,null,null
+null,441,1857,null,null
+null,442,1857,null,null
+null,443,1857,null,null
+null,444,1857,null,null
+null,445,1857,null,null
+null,446,1857,null,null
+null,447,1857,null,null
+null,448,1857,null,null
+null,449,1857,null,null
+null,450,1857,null,null
+null,451,1857,null,null
+null,452,1857,null,null
+null,453,1857,null,null
+null,454,1857,null,null
+null,455,1857,null,null
+null,456,1857,null,null
+null,457,1857,null,null
+null,458,1857,null,null
+null,459,1857,null,null
+null,460,1857,null,null
+null,461,1857,null,null
+null,462,1857,null,null
+null,463,1857,null,null
+null,464,1857,null,null
+null,465,1857,null,null
+null,466,1857,null,null
+null,467,1857,null,null
+null,468,1857,null,null
+null,469,1857,null,null
+null,470,1857,null,null
+null,471,1857,null,null
+null,472,1857,null,null
+null,473,1857,null,null
+null,474,1857,null,null
+null,475,1857,null,null
+null,476,1857,null,null
+null,477,1857,null,null
+null,478,1857,null,null
+null,479,1857,null,null
+null,480,1857,null,null
+null,481,1857,null,null
+null,482,1857,null,null
+null,483,1857,null,null
+null,484,1857,null,null
+null,485,1857,null,null
+null,486,1857,null,null
+null,487,1857,null,null
+null,488,1857,null,null
+null,489,1857,null,null
+null,490,1857,null,null
+null,491,1857,null,null
+null,492,1857,null,null
+null,493,1857,null,null
+null,494,1857,null,null
+null,495,1857,null,null
+null,496,1857,null,null
+null,497,1857,null,null
+null,498,1857,null,null
+null,499,1857,null,null
+null,500,1857,null,null
+null,501,1857,null,null
+null,502,1857,null,null
+null,503,1857,null,null
+null,504,1857,null,null
+null,505,1857,null,null
+null,506,1857,null,null
+null,507,1857,null,null
+null,508,1857,null,null
+null,509,1857,null,null
+null,510,1857,null,null
+null,511,1857,null,null
+null,512,1857,null,null
+null,513,1857,null,null
+null,514,1857,null,null
+null,515,1857,null,null
+null,516,1857,null,null
+null,517,1857,null,null
+null,518,1857,null,null
+null,519,1857,null,null
+null,520,1857,null,null
+null,521,1857,null,null
+null,522,1857,null,null
+null,523,1857,null,null
+null,524,1857,null,null
+null,525,1857,null,null
+null,526,1857,null,null
+null,527,1857,null,null
+null,528,1857,null,null
+null,529,1857,null,null
+null,530,1857,null,null
+null,531,1857,null,null
+null,532,1857,null,null
+null,533,1857,null,null
+SFLL,9,1878,carretª,4
+SFLL,10,1878,carretª,4
+SFLL,11,1878,carretª,null
+SFLL,12,1878,carretª,null
+SFLL,17,1878,carretª,11
+SFLL,144,1878,carretª,null
+SFLL,145,1878,carretª,null
+SFLL,147,1878,carretª,null
+SFLL,148,1878,carretª,null
+SFLL,13,1878,carretª,6
+SFLL,14,1878,carretª,6
+SFLL,15,1878,carretª,9
+SFLL,16,1878,carretª,9
+SFLL,18,1878,carretª,13
+SFLL,19,1878,carretª,15
+SFLL,20,1878,carretª,16
+SFLL,21,1878,carretª,17
+SFLL,22,1878,carretª,18
+SFLL,23,1878,carretª,20
+SFLL,28,1878,carretª,22
+SFLL,29,1878,carretª,24
+SFLL,30,1878,carretª,24
+SFLL,31,1878,carretª,26
+SFLL,32,1878,carretª,27
+SFLL,56,1878,carretª,49
+SFLL,57,1878,carretª,50
+SFLL,58,1878,carretª,52
+SFLL,59,1878,carretª,52
+SFLL,60,1878,carretª,53
+SFLL,71,1878,carretª,60
+SFLL,72,1878,carretª,61
+SFLL,73,1878,carretª,61
+SFLL,74,1878,carretª,63
+SFLL,75,1878,carretª,64
+SFLL,83,1878,carretª,70
+SFLL,84,1878,carretª,71
+SFLL,85,1878,carretª,73
+SFLL,86,1878,carretª,75
+SFLL,87,1878,carretª,77
+SFLL,88,1878,carretª,78
+SFLL,89,1878,carretª,79
+SFLL,90,1878,carretª,79
+SFLL,91,1878,carretª,80
+SFLL,92,1878,carretª,81
+SFLL,93,1878,carretª,81
+SFLL,94,1878,carretª,81
+SFLL,95,1878,carretª,81
+SFLL,96,1878,carretª,81
+SFLL,97,1878,carretª,82
+SFLL,98,1878,carretª,83
+SFLL,99,1878,carretª,84
+SFLL,100,1878,carretª,86
+SFLL,101,1878,carretª,86
+SFLL,102,1878,carretª,86
+SFLL,103,1878,carretª,88
+SFLL,104,1878,carretª,90
+SFLL,105,1878,carretª,92
+SFLL,106,1878,carretª,93
+SFLL,107,1878,carretª,94
+SFLL,108,1878,carretª,95
+SFLL,121,1878,carretª,103
+SFLL,122,1878,carretª,105
+SFLL,123,1878,carretª,107
+SFLL,124,1878,carretª,107
+SFLL,125,1878,carretª,108
+SFLL,126,1878,carretª,109
+SFLL,127,1878,carretª,110
+SFLL,128,1878,carretª,111
+SFLL,130,1878,carretª,113
+SFLL,131,1878,carretª,114
+SFLL,137,1878,carretª,119
+SFLL,138,1878,carretª,120
+SFLL,139,1878,carretª,120
+SFLL,140,1878,carretª,121
+SFLL,141,1878,carretª,122
+SFLL,142,1878,carretª,123
+SFLL,143,1878,carretª,124
+SFLL,146,1878,carretª,19
+SFLL,149,1878,carretª,125
+SFLL,236,1878,carretª,206
+SFLL,237,1878,carretª,208
+SFLL,238,1878,carretª,210
+SFLL,243,1878,carretª,216
+SFLL,244,1878,carretª,218
+SFLL,245,1878,carretª,220
+SFLL,246,1878,carretª,224
+SFLL,247,1878,carretª,224
+SFLL,248,1878,carretª,226
+SFLL,249,1878,carretª,230
+SFLL,250,1878,carretª,230
+SFLL,251,1878,carretª,232
+SFLL,252,1878,carretª,234
+SFLL,253,1878,carretª,236
+SFLL,254,1878,carretª,238
+SFLL,255,1878,carretª,240
+SFLL,256,1878,carretª,242
+SFLL,259,1878,carretª,242
+SFLL,257,1878,carretª,244
+SFLL,260,1878,carretª,244
+SFLL,261,1878,carretª,244
+SFLL,262,1878,carretª,31
+SFLL,263,1878,carretª,104
+SFLL,68,1878,carrretera,58
+SFLL,265,1878,masovernou,1
+SFLL,281,1881,masovernou,1
+SFLL,266,1878,masovernou,2
+SFLL,282,1881,masovernou,2
+SFLL,280,1889,masovernou,2
+SFLL,267,1878,masovernou,4
+SFLL,284,1881,masovernou,4
+SFLL,281,1889,masovernou,4
+SFLL,268,1878,masovernou,5
+SFLL,285,1881,masovernou,5
+SFLL,269,1878,masovernou,6
+SFLL,286,1881,masovernou,6
+SFLL,282,1889,masovernou,6
+SFLL,270,1878,masovernou,7
+SFLL,271,1878,masovernou,7
+SFLL,287,1881,masovernou,7
+SFLL,272,1878,masovernou,8
+SFLL,288,1881,masovernou,8
+SFLL,273,1878,masovernou,9
+SFLL,289,1881,masovernou,9
+SFLL,274,1878,masovernou,11
+SFLL,275,1878,masovernou,11
+SFLL,276,1878,masovernou,12
+SFLL,290,1881,masovernou,12
+SFLL,284,1889,masovernou,12
+SFLL,277,1878,masovernou,13
+SFLL,278,1878,masovernou,13
+SFLL,291,1881,masovernou,13
+SFLL,279,1878,masovernou,14
+SFLL,665,1878,masovernou,14
+SFLL,292,1881,masovernou,14
+SFLL,285,1889,masovernou,14
+SFLL,280,1878,masovernou,15
+SFLL,293,1881,masovernou,15
+SFLL,281,1878,masovernou,16
+SFLL,294,1881,masovernou,16
+SFLL,286,1889,masovernou,16
+SFLL,282,1878,masovernou,17
+SFLL,295,1881,masovernou,17
+SFLL,283,1878,masovernou,18
+SFLL,666,1878,masovernou,18
+SFLL,296,1881,masovernou,18
+SFLL,287,1889,masovernou,18
+SFLL,284,1878,masovernou,19
+SFLL,297,1881,masovernou,19
+SFLL,285,1878,masovernou,20
+SFLL,288,1889,masovernou,20
+SFLL,286,1878,masovernou,21
+SFLL,299,1881,masovernou,21
+SFLL,287,1878,masovernou,22
+SFLL,300,1881,masovernou,22
+SFLL,289,1889,masovernou,22
+SFLL,288,1878,masovernou,23
+SFLL,301,1881,masovernou,23
+SFLL,289,1878,masovernou,25
+SFLL,303,1881,masovernou,25
+SFLL,290,1878,masovernou,26
+SFLL,304,1881,masovernou,26
+SFLL,291,1889,masovernou,26
+SFLL,291,1878,masovernou,27
+SFLL,305,1881,masovernou,27
+SFLL,292,1878,masovernou,29
+SFLL,294,1878,masovernou,30
+SFLL,293,1878,masovernou,30
+SFLL,307,1881,masovernou,30
+SFLL,293,1889,masovernou,30
+SFLL,295,1878,masovernou,31
+SFLL,308,1881,masovernou,31
+SFLL,296,1878,masovernou,32
+SFLL,297,1878,masovernou,32
+SFLL,309,1881,masovernou,32
+SFLL,294,1889,masovernou,32
+SFLL,298,1878,masovernou,33
+SFLL,311,1881,masovernou,33
+SFLL,299,1878,masovernou,34
+SFLL,312,1881,masovernou,34
+SFLL,295,1889,masovernou,34
+SFLL,300,1878,masovernou,35
+SFLL,313,1881,masovernou,35
+SFLL,301,1878,masovernou,40
+SFLL,302,1878,masovernou,40
+SFLL,303,1878,masovernou,40
+SFLL,314,1881,masovernou,40
+SFLL,299,1889,masovernou,40
+SFLL,304,1878,masovernou,42
+SFLL,315,1881,masovernou,42
+SFLL,300,1889,masovernou,42
+SFLL,305,1878,masovernou,44
+SFLL,306,1878,masovernou,44
+SFLL,317,1881,masovernou,44
+SFLL,301,1889,masovernou,44
+SFLL,307,1878,masovernou,46
+SFLL,302,1889,masovernou,46
+SFLL,308,1878,masovernou,48
+SFLL,310,1878,masovernou,48
+SFLL,309,1878,masovernou,48
+SFLL,318,1881,masovernou,48
+SFLL,303,1889,masovernou,48
+SFLL,311,1878,masovernou,52
+SFLL,320,1881,masovernou,52
+SFLL,305,1889,masovernou,52
+SFLL,312,1878,masovernou,54
+SFLL,313,1878,masovernou,54
+SFLL,321,1881,masovernou,54
+SFLL,306,1889,masovernou,54
+SFLL,314,1878,masovernou,56
+SFLL,322,1881,masovernou,56
+SFLL,307,1889,masovernou,56
+SFLL,315,1878,masovernou,58
+SFLL,316,1878,masovernou,58
+SFLL,323,1881,masovernou,58
+SFLL,308,1889,masovernou,58
+SFLL,317,1878,masovernou,60
+SFLL,324,1881,masovernou,60
+SFLL,318,1878,masovernou,64
+SFLL,325,1881,masovernou,64
+SFLL,310,1889,masovernou,64
+SFLL,319,1878,masovernou,66
+SFLL,326,1881,masovernou,66
+SFLL,311,1889,masovernou,66
+SFLL,320,1878,masovernou,68
+SFLL,327,1881,masovernou,68
+SFLL,312,1889,masovernou,68
+SFLL,321,1878,masovernou,70
+SFLL,328,1881,masovernou,70
+SFLL,313,1889,masovernou,70
+SFLL,322,1878,masovernou,72
+SFLL,329,1881,masovernou,72
+SFLL,314,1889,masovernou,72
+SFLL,323,1878,masovernou,74
+SFLL,330,1881,masovernou,74
+SFLL,315,1889,masovernou,74
+SFLL,283,1881,masovernou,3
+SFLL,302,1881,masovernou,24
+SFLL,290,1889,masovernou,24
+SFLL,306,1881,masovernou,28
+SFLL,292,1889,masovernou,28
+SFLL,310,1881,masovernou,32
+SFLL,316,1881,masovernou,42
+SFLL,319,1881,masovernou,50
+SFLL,304,1889,masovernou,50
+SFLL,331,1881,masovernou,78
+SFLL,317,1889,masovernou,78
+SFLL,332,1881,masovernou,80
+SFLL,318,1889,masovernou,80
+SFLL,333,1881,masovernou,82
+SFLL,319,1889,masovernou,82
+SFLL,334,1881,masovernou,84
+SFLL,320,1889,masovernou,84
+SFLL,335,1881,masovernou,86
+SFLL,321,1889,masovernou,86
+SFLL,336,1881,masovernou,88
+SFLL,322,1889,masovernou,88
+SFLL,337,1881,masovernou,90
+SFLL,323,1889,masovernou,90
+SFLL,338,1881,masovernou,92
+SFLL,324,1889,masovernou,92
+SFLL,339,1881,masovernou,94
+SFLL,325,1889,masovernou,94
+SFLL,340,1881,masovernou,94
+SFLL,341,1881,masovernou,96
+SFLL,326,1889,masovernou,96
+SFLL,342,1881,masovernou,98
+SFLL,328,1889,masovernou,98
+SFLL,343,1881,masovernou,100
+SFLL,329,1889,masovernou,100
+SFLL,344,1881,masovernou,102
+SFLL,330,1889,masovernou,102
+SFLL,345,1881,masovernou,104
+SFLL,331,1889,masovernou,104
+SFLL,346,1881,masovernou,108
+SFLL,637,1881,masovernou,108
+SFLL,333,1889,masovernou,108
+SFLL,347,1881,masovernou,110
+SFLL,334,1889,masovernou,110
+SFLL,348,1881,masovernou,112
+SFLL,335,1889,masovernou,112
+SFLL,349,1881,masovernou,114
+SFLL,336,1889,masovernou,114
+SFLL,350,1881,masovernou,118
+SFLL,338,1889,masovernou,118
+SFLL,351,1881,masovernou,120
+SFLL,339,1889,masovernou,120
+SFLL,352,1881,masovernou,122
+SFLL,340,1889,masovernou,122
+SFLL,353,1881,masovernou,124
+SFLL,341,1889,masovernou,124
+SFLL,354,1881,masovernou,126
+SFLL,342,1889,masovernou,126
+SFLL,355,1881,masovernou,127
+SFLL,356,1881,masovernou,128
 SFLL,277,1889,masover nou,45
-SFLL,278,1889,masover nou,47
-SFLL,279,1889,masover nou,49
-SFLL,283,1889,masover nou,10
-SFLL,296,1889,masover nou,-1
-SFLL,297,1889,masover nou,36
-SFLL,298,1889,masover nou,38
-SFLL,309,1889,masover nou,62
-SFLL,316,1889,masover nou,76
-SFLL,327,1889,masover nou,-1
-SFLL,332,1889,masover nou,106
-SFLL,337,1889,masover nou,116
+SFLL,278,1889,masovernou,47
+SFLL,279,1889,masovernou,49
+SFLL,283,1889,masovernou,10
+SFLL,296,1889,masovernou,null
+SFLL,297,1889,masovernou,36
+SFLL,298,1889,masovernou,38
+SFLL,309,1889,masovernou,62
+SFLL,316,1889,masovernou,76
+SFLL,327,1889,masovernou,null
+SFLL,332,1889,masovernou,106
+SFLL,337,1889,masovernou,116
 SFLL,343,1878,masover nou,120
 SFLL,344,1878,masover nou,122
 SFLL,345,1878,masover nou,124
-SFLL,346,1878,masover nou,-1
-SFLL,347,1878,masover nou,-1
-SFLL,348,1878,masover nou,-1
-SFLL,349,1878,masover nou,-1
-SFLL,350,1878,masover nou,-1
-SFLL,351,1878,masover nou,-1
-SFLL,352,1878,masover nou,-1
-SFLL,353,1878,masover nou,-1
+SFLL,346,1878,masover nou,null
+SFLL,347,1878,masover nou,null
+SFLL,348,1878,masover nou,null
+SFLL,349,1878,masover nou,null
+SFLL,350,1878,masover nou,null
+SFLL,351,1878,masover nou,null
+SFLL,352,1878,masover nou,null
+SFLL,353,1878,masover nou,null
 SFLL,254,1889,masover nou,1
 SFLL,255,1889,masover nou,3
 SFLL,256,1889,masover nou,5
@@ -3274,14 +3275,14 @@ SFLL,267,1889,masover nou,27
 SFLL,268,1889,masover nou,29
 SFLL,269,1889,masover nou,31
 SFLL,270,1889,masover nou,33
-SFLL,271,1889,masover nou,-1
+SFLL,271,1889,masover nou,null
 SFLL,272,1889,masover nou,35
 SFLL,273,1889,masover nou,37
 SFLL,274,1889,masover nou,39
 SFLL,275,1889,masover nou,41
 SFLL,276,1889,masover nou,43
-SFLL,390,1878,falguera,33
-SFLL,418,1878,falguera,62
+SFLL,390,1878,falguer,33
+SFLL,418,1878,falguerA,62
 SFLL,430,1878,serra,1
 SFLL,534,1881,serra,1
 SFLL,508,1889,serra,1
@@ -3362,123 +3363,123 @@ SFLL,533,1889,serra,22
 SFLL,557,1881,serra,25
 SFLL,520,1889,serra,25
 SFLL,453,1878,grane,20
-SFLL,485,1878,creus,33
-SFLL,486,1878,creus,27
-SFLL,487,1878,creus,39
-SFLL,488,1878,creus,41
-SFLL,489,1878,creus,43
-SFLL,490,1878,creus,45
-SFLL,491,1878,creus,47
-SFLL,492,1878,creus,47
-SFLL,493,1878,creus,49
-SFLL,494,1878,creus,53
-SFLL,495,1878,creus,55
-SFLL,496,1878,creus,57
-SFLL,497,1878,creus,59
-SFLL,498,1878,creus,61
-SFLL,499,1878,creus,63
-SFLL,549,1878,iglesia,27
-SFLL,556,1878,iglesia,37
-SFLL,566,1878,baix,1
-SFLL,476,1881,baix,1
-SFLL,567,1878,baix,2
-SFLL,477,1881,baix,2
-SFLL,464,1889,baix,2
-SFLL,568,1878,baix,3
-SFLL,569,1878,baix,3
-SFLL,478,1881,baix,3
-SFLL,570,1878,baix,4
-SFLL,465,1889,baix,4
-SFLL,571,1878,baix,6
-SFLL,481,1881,baix,6
-SFLL,466,1889,baix,6
-SFLL,572,1878,baix,7
-SFLL,482,1881,baix,7
-SFLL,456,1889,baix,7
-SFLL,573,1878,baix,8
-SFLL,484,1881,baix,8
-SFLL,467,1889,baix,8
-SFLL,574,1878,baix,10
-SFLL,486,1881,baix,10
-SFLL,468,1889,baix,10
-SFLL,575,1878,baix,11
-SFLL,487,1881,baix,11
-SFLL,458,1889,baix,11
-SFLL,576,1878,baix,12
-SFLL,488,1881,baix,12
-SFLL,469,1889,baix,12
-SFLL,577,1878,baix,14
-SFLL,578,1878,baix,14
-SFLL,490,1881,baix,14
-SFLL,470,1889,baix,14
-SFLL,579,1878,baix,15
-SFLL,491,1881,baix,15
-SFLL,460,1889,baix,15
-SFLL,580,1878,baix,16
-SFLL,492,1881,baix,16
-SFLL,471,1889,baix,16
-SFLL,581,1878,baix,17
-SFLL,493,1881,baix,17
-SFLL,461,1889,baix,17
-SFLL,582,1878,baix,18
-SFLL,494,1881,baix,18
-SFLL,583,1878,baix,19
-SFLL,495,1881,baix,19
-SFLL,462,1889,baix,19
-SFLL,584,1878,baix,20
-SFLL,496,1881,baix,20
-SFLL,472,1889,baix,20
-SFLL,585,1878,baix,22
-SFLL,586,1878,baix,22
-SFLL,498,1881,baix,22
-SFLL,474,1889,baix,22
-SFLL,587,1878,baix,23
-SFLL,588,1878,baix,24
-SFLL,589,1878,baix,24
-SFLL,499,1881,baix,24
-SFLL,475,1889,baix,24
-SFLL,590,1878,baix,25
-SFLL,591,1878,baix,25
-SFLL,592,1878,baix,26
-SFLL,500,1881,baix,26
-SFLL,476,1889,baix,26
-SFLL,593,1878,baix,27
-SFLL,594,1878,baix,28
-SFLL,501,1881,baix,28
-SFLL,477,1889,baix,28
-SFLL,595,1878,baix,30
-SFLL,502,1881,baix,30
-SFLL,478,1889,baix,30
-SFLL,596,1878,baix,31
-SFLL,597,1878,baix,33
-SFLL,598,1878,baix,33
-SFLL,605,1878,baix,33
-SFLL,599,1878,baix,34
-SFLL,606,1878,baix,34
-SFLL,504,1881,baix,34
-SFLL,480,1889,baix,34
-SFLL,600,1878,baix,35
-SFLL,601,1878,baix,36
-SFLL,505,1881,baix,36
-SFLL,481,1889,baix,36
-SFLL,602,1878,baix,37
-SFLL,603,1878,baix,38
-SFLL,506,1881,baix,38
-SFLL,482,1889,baix,38
-SFLL,604,1878,baix,39
-SFLL,479,1881,baix,5
-SFLL,455,1889,baix,5
-SFLL,480,1881,baix,5
-SFLL,483,1881,baix,7
-SFLL,485,1881,baix,9
-SFLL,457,1889,baix,9
-SFLL,489,1881,baix,13
-SFLL,459,1889,baix,13
-SFLL,497,1881,baix,21
-SFLL,463,1889,baix,21
-SFLL,503,1881,baix,32
-SFLL,479,1889,baix,32
-SFLL,473,1889,baix,20
+SFLL,485,1878,cruces,33
+SFLL,486,1878,cruces,27
+SFLL,487,1878,cruces,39
+SFLL,488,1878,cruces,41
+SFLL,489,1878,cruces,43
+SFLL,490,1878,cruces,45
+SFLL,491,1878,cruces,47
+SFLL,492,1878,cruces,47
+SFLL,493,1878,cruces,49
+SFLL,494,1878,cruces,53
+SFLL,495,1878,cruces,55
+SFLL,496,1878,cruces,57
+SFLL,497,1878,cruces,59
+SFLL,498,1878,cruces,61
+SFLL,499,1878,cruces,63
+SFLL,549,1878,Iglesia,27
+SFLL,556,1878,igelsia,37
+SFLL,566,1878,abajo,1
+SFLL,476,1881,abajo,1
+SFLL,567,1878,abajo,2
+SFLL,477,1881,abajo,2
+SFLL,464,1889,abajo,2
+SFLL,568,1878,abajo,3
+SFLL,569,1878,abajo,3
+SFLL,478,1881,abajo,3
+SFLL,570,1878,abajo,4
+SFLL,465,1889,abajo,4
+SFLL,571,1878,abajo,6
+SFLL,481,1881,abajo,6
+SFLL,466,1889,abajo,6
+SFLL,572,1878,abajo,7
+SFLL,482,1881,abajo,7
+SFLL,456,1889,abajo,7
+SFLL,573,1878,abajo,8
+SFLL,484,1881,abajo,8
+SFLL,467,1889,abajo,8
+SFLL,574,1878,abajo,10
+SFLL,486,1881,abajo,10
+SFLL,468,1889,abajo,10
+SFLL,575,1878,abajo,11
+SFLL,487,1881,abajo,11
+SFLL,458,1889,abajo,11
+SFLL,576,1878,abajo,12
+SFLL,488,1881,abajo,12
+SFLL,469,1889,abajo,12
+SFLL,577,1878,abajo,14
+SFLL,578,1878,abajo,14
+SFLL,490,1881,abajo,14
+SFLL,470,1889,abajo,14
+SFLL,579,1878,abajo,15
+SFLL,491,1881,abajo,15
+SFLL,460,1889,abajo,15
+SFLL,580,1878,abajo,16
+SFLL,492,1881,abajo,16
+SFLL,471,1889,abajo,16
+SFLL,581,1878,abajo,17
+SFLL,493,1881,abajo,17
+SFLL,461,1889,abajo,17
+SFLL,582,1878,abajo,18
+SFLL,494,1881,abajo,18
+SFLL,583,1878,abajo,19
+SFLL,495,1881,abajo,19
+SFLL,462,1889,abajo,19
+SFLL,584,1878,abajo,20
+SFLL,496,1881,abajo,20
+SFLL,472,1889,abajo,20
+SFLL,585,1878,abajo,22
+SFLL,586,1878,abajo,22
+SFLL,498,1881,abajo,22
+SFLL,474,1889,abajo,22
+SFLL,587,1878,abajo,23
+SFLL,588,1878,abajo,24
+SFLL,589,1878,abajo,24
+SFLL,499,1881,abajo,24
+SFLL,475,1889,abajo,24
+SFLL,590,1878,abajo,25
+SFLL,591,1878,abajo,25
+SFLL,592,1878,abajo,26
+SFLL,500,1881,abajo,26
+SFLL,476,1889,abajo,26
+SFLL,593,1878,abajo,27
+SFLL,594,1878,abajo,28
+SFLL,501,1881,abajo,28
+SFLL,477,1889,abajo,28
+SFLL,595,1878,abajo,30
+SFLL,502,1881,abajo,30
+SFLL,478,1889,abajo,30
+SFLL,596,1878,abajo,31
+SFLL,597,1878,abajo,33
+SFLL,598,1878,abajo,33
+SFLL,605,1878,abajo,33
+SFLL,599,1878,abajo,34
+SFLL,606,1878,abajo,34
+SFLL,504,1881,abajo,34
+SFLL,480,1889,abajo,34
+SFLL,600,1878,abajo,35
+SFLL,601,1878,abajo,36
+SFLL,505,1881,abajo,36
+SFLL,481,1889,abajo,36
+SFLL,602,1878,abajo,37
+SFLL,603,1878,abajo,38
+SFLL,506,1881,abajo,38
+SFLL,482,1889,abajo,38
+SFLL,604,1878,abajo,39
+SFLL,479,1881,abajo,5
+SFLL,455,1889,abajo,5
+SFLL,480,1881,abajo,5
+SFLL,483,1881,abajo,7
+SFLL,485,1881,abajo,9
+SFLL,457,1889,abajo,9
+SFLL,489,1881,abajo,13
+SFLL,459,1889,abajo,13
+SFLL,497,1881,abajo,21
+SFLL,463,1889,abajo,21
+SFLL,503,1881,abajo,32
+SFLL,479,1889,abajo,32
+SFLL,473,1889,abajo,20
 SFLL,607,1878,afueras,2
 SFLL,622,1881,afueras,2
 SFLL,629,1889,afueras,2
@@ -3497,20 +3498,20 @@ SFLL,613,1878,afueras,34
 SFLL,614,1878,afueras,36
 SFLL,615,1878,afueras,38
 SFLL,616,1878,afueras,40
-SFLL,617,1878,afueras,-1
-SFLL,618,1878,afueras,-1
-SFLL,619,1878,afueras,-1
-SFLL,620,1878,afueras,-1
-SFLL,621,1878,afueras,-1
-SFLL,622,1878,afueras,-1
-SFLL,623,1878,afueras,-1
-SFLL,624,1878,afueras,-1
-SFLL,625,1878,afueras,-1
-SFLL,626,1878,afueras,-1
-SFLL,628,1878,afueras,-1
-SFLL,629,1878,afueras,-1
-SFLL,630,1878,afueras,-1
-SFLL,627,1878,afueras,-1
+SFLL,617,1878,afueras,null
+SFLL,618,1878,afueras,null
+SFLL,619,1878,afueras,null
+SFLL,620,1878,afueras,null
+SFLL,621,1878,afueras,null
+SFLL,622,1878,afueras,null
+SFLL,623,1878,afueras,null
+SFLL,624,1878,afueras,null
+SFLL,625,1878,afueras,null
+SFLL,626,1878,afueras,null
+SFLL,628,1878,afueras,null
+SFLL,629,1878,afueras,null
+SFLL,630,1878,afueras,null
+SFLL,627,1878,afueras,null
 SFLL,631,1878,afueras,13
 SFLL,633,1881,afueras,13
 SFLL,641,1889,afueras,13
@@ -3536,22 +3537,22 @@ SFLL,633,1889,afueras,5
 SFLL,642,1889,afueras,14
 SFLL,644,1889,afueras,16
 SFLL,645,1889,afueras,16
-SFLL,632,1878,sta maria,-1
-SFLL,633,1878,sta maria,-1
-SFLL,634,1878,sta maria,-1
-SFLL,635,1878,sta maria,-1
-SFLL,636,1878,sta maria,-1
-SFLL,637,1878,sta maria,-1
-SFLL,638,1878,sta maria,-1
-SFLL,639,1878,sta maria,-1
-SFLL,640,1878,sta maria,-1
-SFLL,641,1878,sta maria,-1
-SFLL,643,1878,sta maria,-1
-SFLL,642,1878,sta maria,-1
-SFLL,644,1878,sta maria,-1
-SFLL,645,1878,sta maria,-1
-SFLL,646,1878,sta maria,-1
-SFLL,647,1878,sta maria,-1
+SFLL,632,1878,sta maria,null
+SFLL,633,1878,sta maria,null
+SFLL,634,1878,sta maria,null
+SFLL,635,1878,sta maria,null
+SFLL,636,1878,sta maria,null
+SFLL,637,1878,sta maria,null
+SFLL,638,1878,sta maria,null
+SFLL,639,1878,sta maria,null
+SFLL,640,1878,sta maria,null
+SFLL,641,1878,sta maria,null
+SFLL,643,1878,sta maria,null
+SFLL,642,1878,sta maria,null
+SFLL,644,1878,sta maria,null
+SFLL,645,1878,sta maria,null
+SFLL,646,1878,sta maria,null
+SFLL,647,1878,sta maria,null
 SFLL,560,1881,sta maria,1
 SFLL,534,1889,sta maria,1
 SFLL,561,1881,sta maria,3
@@ -3583,7 +3584,7 @@ SFLL,554,1889,sta maria,16
 SFLL,574,1881,sta maria,17
 SFLL,542,1889,sta maria,17
 SFLL,575,1881,sta maria,18
-SFLL,555,1889,sta maria,18
+SFLL,555,1889,santa maria,18
 SFLL,576,1881,sta maria,19
 SFLL,543,1889,sta maria,19
 SFLL,577,1881,sta maria,20
@@ -3598,27 +3599,27 @@ SFLL,546,1889,sta maria,25
 SFLL,583,1881,sta maria,26
 SFLL,536,1889,sta maria,5
 SFLL,547,1889,sta maria,2
-SFLL,648,1878,sta maria,-1
-SFLL,649,1878,sta maria,-1
-SFLL,650,1878,sta maria,-1
-SFLL,651,1878,sta maria,-1
-SFLL,652,1878,sta maria,-1
-SFLL,653,1878,sta maria,-1
-SFLL,654,1878,sta maria,-1
-SFLL,655,1878,sta maria,-1
-SFLL,670,1878,sta maria,-1
-SFLL,671,1878,sta maria,-1
-SFLL,556,1889,sta maria,20
-SFLL,557,1889,sta maria,22
-SFLL,558,1889,sta maria,24
-SFLL,559,1889,sta maria,26
-SFLL,560,1889,sta maria,28
-null,656,1878,null,-1
-null,657,1878,null,-1
-SFLL,49,1881,carretera,51
-SFLL,202,1881,carretera,187
-SFLL,72,1889,carretera,139
-null,298,1881,null,-1
+SFLL,648,1878,santa maria,null
+SFLL,649,1878,santa maria,null
+SFLL,650,1878,santa maria,null
+SFLL,651,1878,santa maria,null
+SFLL,652,1878,santa maria,null
+SFLL,653,1878,santa maria,null
+SFLL,654,1878,santa maria,null
+SFLL,655,1878,santa maria,null
+SFLL,670,1878,santa maria,null
+SFLL,671,1878,santa maria,null
+SFLL,556,1889,santa maria,20
+SFLL,557,1889,santa maria,22
+SFLL,558,1889,santa maria,24
+SFLL,559,1889,santa maria,26
+SFLL,560,1889,santa maria,28
+null,656,1878,null,null
+null,657,1878,null,null
+SFLL,49,1881,Carretera,51
+SFLL,202,1881,Carretera,187
+SFLL,72,1889,Carretera,139
+null,298,1881,null,null
 SFLL,507,1881,plaza mercado,2
 SFLL,622,1889,plaza mercado,2
 SFLL,508,1881,plaza mercado,4
@@ -3632,33 +3633,33 @@ SFLL,588,1881,st antonio,17
 SFLL,589,1881,st antonio,19
 SFLL,590,1881,st antonio,23
 SFLL,591,1881,st antonio,25
-SFLL,592,1881,plaza de la constitucion,1
-SFLL,593,1881,plaza de la constitucion,2
-SFLL,594,1881,plaza de la constitucion,3
-SFLL,595,1881,plaza de la constitucion,4
-SFLL,596,1881,plaza de la constitucion,6
-SFLL,597,1881,plaza de la constitucion,8
-SFLL,598,1881,plaza de la constitucion,9
-SFLL,599,1881,plaza de la constitucion,11
-SFLL,600,1881,plaza de la constitucion,13
-SFLL,601,1881,plaza de la constitucion,15
-SFLL,602,1881,plaza de la constitucion,17
-SFLL,603,1881,plaza de la constitucion,19
-SFLL,604,1881,plaza de la constitucion,21
-SFLL,615,1881,paseo de la estacion,1
-SFLL,616,1881,paseo de la estacion,2
-SFLL,617,1881,paseo de la estacion,3
-SFLL,618,1881,paseo de la estacion,4
-SFLL,619,1881,paseo de la estacion,5
-SFLL,620,1881,paseo de la estacion,9
-SFLL,1,1889,carretera,1
-SFLL,2,1889,carretera,3
-SFLL,3,1889,carretera,5
-SFLL,4,1889,carretera,7
-SFLL,5,1889,carretera,9
-SFLL,204,1889,carretera,192
-SFLL,64,1889,carretera,125
-SFLL,561,1889,st antonio,1
+SFLL,592,1881,plaza de la cont,1
+SFLL,593,1881,plaza de la cont,2
+SFLL,594,1881,plaza de la cont,3
+SFLL,595,1881,plaza de la cont,4
+SFLL,596,1881,plaza de la cont,6
+SFLL,597,1881,plaza de la cont,8
+SFLL,598,1881,plaza de la cont,9
+SFLL,599,1881,plaza de la cont,11
+SFLL,600,1881,plaza de la cont,13
+SFLL,601,1881,plaza de la conston,15
+SFLL,602,1881,plaza de la conston,17
+SFLL,603,1881,plaza de la conston,19
+SFLL,604,1881,plaza de la conston,21
+SFLL,615,1881,paseo,1
+SFLL,616,1881,paseo,2
+SFLL,617,1881,paseo,3
+SFLL,618,1881,paseo,4
+SFLL,619,1881,paseo,5
+SFLL,620,1881,paseo,9
+SFLL,1,1889,calle de la carretera,1
+SFLL,2,1889,calle de la carretera,3
+SFLL,3,1889,calle de la carretera,5
+SFLL,4,1889,calle de la carretera,7
+SFLL,5,1889,calle de la carretera,9
+SFLL,204,1889,calle de la carretera,192
+SFLL,64,1889,caretera,125
+SFLL,561,1889,s n antonio,1
 SFLL,590,1889,plaza de la constitucion,1
 SFLL,591,1889,plaza de la constitucion,3
 SFLL,592,1889,plaza de la constitucion,5
@@ -3673,10 +3674,10 @@ SFLL,613,1889,paseo de la estacion,1
 SFLL,614,1889,paseo de la estacion,3
 SFLL,615,1889,paseo de la estacion,5
 SFLL,616,1889,paseo de la estacion,7
-SFLL,617,1889,paseo de la estacion,9
-SFLL,618,1889,paseo de la estacion,11
-SFLL,619,1889,paseo de la estacion,13
-SFLL,620,1889,paseo de la estacion,2
-SFLL,621,1889,paseo de la estacion,4
+SFLL,617,1889,paseo estacion,9
+SFLL,618,1889,paseo estacion,11
+SFLL,619,1889,paseo estacion,13
+SFLL,620,1889,paseo estacion,2
+SFLL,621,1889,paseo estacion,4
 SFLL,626,1889,nieves,1
-SFLL,627,1889,nieves,-1
+SFLL,627,1889,nieves,null
