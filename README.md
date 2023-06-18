@@ -22,8 +22,8 @@ Es tindrà l'oportunitat d'investigar algorismes d'anàlisi de gràfics a més d
 ### Part 1: Importació de les dades i implementació de l'script
 Aquesta primera part consta de l'elevoració d'un fitxer d'extensió .cypher que conté la informació pas a pas amb comandes a dur a terme a la consola de Neo4j amb l'objectiu d'importar les dades a la nostra base de dades de manera correcta.
 
-### Part 2: Ressolució de consultes
-En segon lloc s'ha implementat la ressolució de les diverses consultes proposades.
+### Part 2: Resolució de consultes
+En segon lloc s'ha implementat la resolució de les diverses consultes proposades.
 
 ### Part 3: Anàlisi del graf
 En aquesta tercera part, es realitza una anàlisi del graf proporcionat. L'anàlisi del graf implica examinar-ne les característiques principals, com ara la seva estructura, els nodes importants i les connexions entre ells.
