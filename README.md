@@ -11,7 +11,7 @@ Aquest repositori conté el projecte de Neo4j que es duu a terme a la assignatur
 </p>
 
 ### Plantejament del problema
-En aquest projecte es treballarà el disseny, la implementació i la consulta d'una base de dades a Neo4j. Primerament, aerà necessari importar les dades en la BD de Neo4j. Per fer-ho s'hauran d'actualitzar els excels de forma que tinguin sentit i sigui còmode treballar amb ells. 
+En aquest projecte es treballarà el disseny, la implementació i la consulta d'una base de dades a Neo4j. Primerament, serà necessari importar les dades en la BD de Neo4j. S'evitarà importar dades que continguin Id's nulls. 
 
 Aquest subconjunt de dades de patrons s'ha de carregar primer a la base de dades de gràfics. S'organitzaran les dades utilitzant les característiques de Neo4J perquè apareguin com a nodes (entitats) i relacions (connexions) al gràfic. Això permetrà emmagatzemar dades de manera eficaç i reflectir les connexions entre diverses entitats.
 
@@ -20,7 +20,7 @@ Posteriorment s'executaran consultes per obtenir informació específica un cop 
 Es tindrà l'oportunitat d'investigar algorismes d'anàlisi de gràfics a més de treballar amb dades i consultes. Amb l'ajuda d'aquests algorismes, es podrà extreure dades valuoses de gràfics, com ara comunitats, camins més curts o patrons de connexió. S'analitzaran i es comprendran les dades del patró de manera més a fons mitjançant aquests algorismes des d'una perspectiva de gràfics.
 
 ### Part 1: Importació de les dades i implementació de l'script
-Aquesta primera part consta de l'elevoració d'un fitxer d'extensió .cypher que conté la informació pas a pas amb comandes a dur a terme a la consola de Neo4j amb l'objectiu d'importar les dades a la nostra base de dades de manera correcta.
+Aquesta primera part consta de l'elaboració d'un fitxer d'extensió .cypher que conté la informació pas a pas amb comandes a dur a terme a la consola de Neo4j amb l'objectiu d'importar les dades a la base de dades de manera correcta.
 
 ### Part 2: Resolució de consultes
 En segon lloc s'ha implementat la resolució de les diverses consultes proposades.
