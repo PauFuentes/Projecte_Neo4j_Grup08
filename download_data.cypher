@@ -19,7 +19,7 @@ CREATE CONSTRAINT UniqueHabitatgeIdConstraint FOR (h:Habitatge) REQUIRE (h.Id, h
 
 //Individus
 
-LOAD CSV WITH HEADERS FROM ''https://docs.google.com/spreadsheets/d/e/2PACX-1vTfU6oJBZhmhzzkV_0-avABPzHTdXy8851ySDbn2gq32WwaNmYxfiBtCGJGOZsMgCWjzlEGX4Zh1wqe/pub?output=csv' ' AS row WITH toInteger(row.Id) AS Id_Individu, toInteger(row.Year) AS Any_Individu, row.name AS Nom, row.surname AS Cognom, row.second_surname AS Segon_Cognom WHERE Id_Individu IS NOT NULL MERGE (i:Individu{Id: Id_Individu, Any_Padro: Any_Individu, Nom: Nom, Cognom: Cognom, Segon_Cognom: Segon_Cognom}) RETURN COUNT(i)
+LOAD CSV WITH HEADERS FROM 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTfU6oJBZhmhzzkV_0-avABPzHTdXy8851ySDbn2gq32WwaNmYxfiBtCGJGOZsMgCWjzlEGX4Zh1wqe/pub?output=csv' AS row WITH toInteger(row.Id) AS Id_Individu, toInteger(row.Year) AS Any_Individu, row.name AS Nom, row.surname AS Cognom, row.second_surname AS Segon_Cognom WHERE Id_Individu IS NOT NULL MERGE (i:Individu{Id: Id_Individu, Any_Padro: Any_Individu, Nom: Nom, Cognom: Cognom, Segon_Cognom: Segon_Cognom}) RETURN COUNT(i)
 
 CREATE CONSTRAINT UniqueIndividuIdConstraint FOR (i:Individu) REQUIRE i.Id IS UNIQUE
 
@@ -41,7 +41,7 @@ LOAD CSV WITH HEADERS FROM 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTgC
 
 //Individus—Viu—>Habitatges:
 
-LOAD CSV WITH HEADERS FROM 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRM4DPeqFmv7w6kLH5msNk6_Hdh1wuExRirgysZKO_Q70L21MKBkDISIyjvdm8shVixl5Tcw_5zCfdg/pub?output=csv' AS ROW WITH toInteger(row.IND) AS Id_Individu, toInteger(row.HOUSE_ID) AS Id_Llar, toInteger(row.Year) AS AnyC, row.Location AS Loc
+LOAD CSV WITH HEADERS FROM 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRM4DPeqFmv7w6kLH5msNk6_Hdh1wuExRirgysZKO_Q70L21MKBkDISIyjvdm8shVixl5Tcw_5zCfdg/pub?output=csv' AS row WITH toInteger(row.IND) AS Id_Individu, toInteger(row.HOUSE_ID) AS Id_Llar, toInteger(row.Year) AS AnyC, row.Location AS Loc
 MATCH (p:Individu{Id:Id_Individu})
 MATCH (h:Habitatge{Id:Id_Llar,Any_Padro:AnyC,Municipi:Loc})
 MERGE (p)-[rel:VIU{Localitzacio:Loc,Any_Habitatge:AnyC}]->(h)
